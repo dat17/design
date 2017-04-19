@@ -7,6 +7,7 @@
 - [シラバス](syllabus.md)
 
 # 2回目
+- フォルダの表示設定
 - e-typingの練習2回目
 - Phaserを続きから
 - Tyrano Script
