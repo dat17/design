@@ -9,8 +9,8 @@
 # 2回目
 - フォルダの表示設定
 - e-typingの練習2回目
-- [Phaserを続きから]()
-- Tyrano Script
+- [Phaserを続きから](http://am1tanaka.hatenablog.com/entry/2017/04/18/141813)
+- [Tyrano Script](http://tyrano.jp/)
 
 # 1回目
 - ガイダンス
