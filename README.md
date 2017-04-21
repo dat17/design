@@ -9,7 +9,7 @@
 # 2回目
 - フォルダの表示設定
 - e-typingの練習2回目
-- Phaserを続きから
+- [Phaserを続きから]()
 - Tyrano Script
 
 # 1回目
@@ -17,9 +17,14 @@
 - [アカウントの登録](01.md)
   - Gmail / Microsoft Account / GitHub / e-typing
 - e-typingでキータッチの練習
-- [HTML5ゲームエンジン Phaserを試す](http://am1tanaka.hatenablog.com/entry/2017/04/18/133037)
+- [HTML5ゲームエンジン Phaserを試す](http://am1tanaka.hatenablog.com/entry/2017/04/19/211234)
 
 ## 終わったこと
 - Gmail, Microsoftアカウント, GitHub, e-typingの登録(1名金曜日に)
 - Phaserの最初をやって、保存して、Gmailに下書き保存
+
+# 参考URL
+- [Phaserをサンドボックスで試すチュートリアル](http://am1tanaka.hatenablog.com/entry/2017/04/19/211234)
+- [Phaser](https://phaser.io)
+- [https://www.e-typing.ne.jp/](e-typing)
 
