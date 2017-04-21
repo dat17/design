@@ -10,7 +10,7 @@
 - フォルダの表示設定
 - e-typingの練習2回目
 - [Phaserを続きから](http://am1tanaka.hatenablog.com/entry/2017/04/18/141813)
-- [Tyrano Script](http://tyrano.jp/)
+- [Tyrano Script](02_tyrano.md)
 
 # 1回目
 - ガイダンス
@@ -27,4 +27,3 @@
 - [Phaserをサンドボックスで試すチュートリアル](http://am1tanaka.hatenablog.com/entry/2017/04/19/211234)
 - [Phaser](https://phaser.io)
 - [https://www.e-typing.ne.jp/](e-typing)
-
