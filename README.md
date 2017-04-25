@@ -7,6 +7,10 @@
 - [シラバス](syllabus.md)
 
 # 2回目
+## 話題
+- https://unite.unity.com/ja/2017/tokyo
+
+## 概要
 - e-typingの練習2回目
   - しばらくやって、今日の最高スコアをGoogleスプレッドシートのC列の自分の出席番号の行に書き込む
 - [Phaserを続きから](http://am1tanaka.hatenablog.com/entry/2017/04/18/141813)
