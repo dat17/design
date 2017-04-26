@@ -13,6 +13,7 @@
 ## 概要
 - e-typingの練習2回目
   - しばらくやって、今日の最高スコアをGoogleスプレッドシートのC列の自分の出席番号の行に書き込む
+  - https://docs.google.com/spreadsheets/d/1tNo2jQopLECizCT-S3GWSKeWlhxsiCYAwl9m3IlE2hw/edit#gid=0
 - [Phaserを続きから](http://am1tanaka.hatenablog.com/entry/2017/04/18/141813)
 - [Tyrano Script](02_tyrano.md)
 
