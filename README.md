@@ -6,6 +6,15 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 3回目
+## 予定
+- ゲームデザイン概論と企画書の書き方
+- Phaserの開発環境をローカルで整える(VirtualBox)
+  - VirtualBoxで開発環境を構築
+  - 動作確認はホストOS(Windows)側で行う
+    - 参考URL http://the2g.com/75
+- e-typingでキータッチの練習
+
 # 2回目
 ## 話題
 - https://unite.unity.com/ja/2017/tokyo
