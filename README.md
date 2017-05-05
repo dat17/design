@@ -7,6 +7,9 @@
 - [シラバス](syllabus.md)
 
 # 3回目
+## 話題
+- [F1-Gate マクラーレン、F1シミュレータードライバーを賭けたゲーム大会を開催](https://f1-gate.com/mclaren/f1_36286.html)
+
 ## 予定
 - ゲームデザイン概論と企画書の書き方
 - Phaserの開発環境をローカルで整える(VirtualBox)
