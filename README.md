@@ -14,7 +14,16 @@
 
 ## 予定
 - ゲームデザイン概論と企画書の書き方
-  - https://docs.google.com/spreadsheets/d/1ZCHYWzWgu8bhBz6K8UYsbSAxy-3QBnVuM6cygDNrqWQ/edit?usp=sharing
+  - https://docs.google.com/spreadsheets/d/17RdZ-QsDjXebC5R3r8ArI-ps6RthvTh8hYjQVFamB70/edit#gid=890543586
+  - シート2をソートして、ジャンルを決める
+  - ５つの要素と、ジャンルを組み合わせてゲームを考えて、ゲームを企画する
+    - ゲームのコア(1～2行でゲームの要素)
+    - ゲーム画面
+    - フィーチャーセット(あれば)
+    - 操作方法
+    - ゲームオーバー条件（あれば）
+    - 得点方法（あれば）
+    - 登場するもの（オブジェクト）リスト
 - Phaserの開発環境をローカルで整える(VirtualBox)
   - VirtualBoxで開発環境を構築
   - 動作確認はホストOS(Windows)側で行う
