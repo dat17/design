@@ -14,6 +14,7 @@
 
 ## 予定
 - ゲームデザイン概論と企画書の書き方
+  - https://docs.google.com/spreadsheets/d/1ZCHYWzWgu8bhBz6K8UYsbSAxy-3QBnVuM6cygDNrqWQ/edit?usp=sharing
 - Phaserの開発環境をローカルで整える(VirtualBox)
   - VirtualBoxで開発環境を構築
   - 動作確認はホストOS(Windows)側で行う
