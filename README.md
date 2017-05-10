@@ -14,7 +14,7 @@
 
 ## 予定
 - ゲームデザイン概論と企画書の書き方
-  - https://docs.google.com/spreadsheets/d/17RdZ-QsDjXebC5R3r8ArI-ps6RthvTh8hYjQVFamB70/edit#gid=890543586
+  - https://docs.google.com/spreadsheets/d/17RdZ-QsDjXebC5R3r8ArI-ps6RthvTh8hYjQVFamB70/edit?usp=sharing
   - シート2をソートして、ジャンルを決める
   - ５つの要素と、ジャンルを組み合わせてゲームを考えて、ゲームを企画する
     - ゲームのコア(1～2行でゲームの要素)
