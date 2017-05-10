@@ -6,13 +6,24 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 4回目
+## 話題
+- [テラシュールブログ 【Unity】1週間ゲームジャムに参加しました。メイキング・オブ・超速ブロック崩し（仮）](http://tsubakit1.hateblo.jp/entry/2017/05/01/230531)
+
+## 予定
+- Phaserの開発環境をローカルで整える(VirtualBox)
+  - VirtualBoxで開発環境を構築
+  - 動作確認はホストOS(Windows)側で行う
+    - 参考URL http://the2g.com/75
+- e-typingでキータッチの練習
+
 # 3回目
 ## 話題
 - [テラシュールブログ Unity2017](http://tsubakit1.hateblo.jp/entry/2017/05/08/224037)
 - [東京インディーフェス2017](http://www.tokyosandbox.com/tokyo-indie-fest/)
 - [F1-Gate マクラーレン、F1シミュレータードライバーを賭けたゲーム大会を開催](https://f1-gate.com/mclaren/f1_36286.html)
 
-## 予定
+## 作業
 - ゲームデザイン概論と企画書の書き方
   - シート2をソートして、ジャンルを決める
   - ５つの要素と、ジャンルを組み合わせてゲームを考えて、ゲームを企画する
@@ -26,13 +37,6 @@
 - 得点方法（あれば）
 - 登場するもの（オブジェクト）リスト
  
-## 次
-- Phaserの開発環境をローカルで整える(VirtualBox)
-  - VirtualBoxで開発環境を構築
-  - 動作確認はホストOS(Windows)側で行う
-    - 参考URL http://the2g.com/75
-- e-typingでキータッチの練習
-
 # 2回目
 ## 話題
 - https://unite.unity.com/ja/2017/tokyo
