@@ -15,7 +15,7 @@
 - Phaserの開発環境をローカルで整える(VirtualBox)
   - VirtualBoxで開発環境を構築
     - lubuntu 16.04(64bit) をインストール
-    - インストールスクリプトをダウンロードして、インストール開始
+    - [インストールスクリプトをダウンロードして、インストール](https://github.com/am1tanaka/10k-gamedev/)
     - Phaserの動作確認
   - 動作確認はホストOS(Windows)側で行う
     - 参考URL http://the2g.com/75
