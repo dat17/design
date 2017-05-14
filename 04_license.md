@@ -105,7 +105,7 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 ## 著作物を見分ける
 - [福井健策　著作物ではない情報](https://japan.cnet.com/article/35047973/)
 
-## 著作者の利用
+## 著作物の利用
 - [福井健策　その著作物の利用、できます －入場無料のイベント・上映、写り込み、企画・研究－](https://japan.cnet.com/article/35050993/)
   - 前回の企画案検討の時に関連アリ。あれが許される理由の一つがこれ。
   
