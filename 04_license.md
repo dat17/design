@@ -154,3 +154,7 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 
 ## その他
 
+# まとめ
+自分が著作者の立場になって考えよう。
+
+
