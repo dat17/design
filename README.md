@@ -19,6 +19,7 @@
   - 04_license.md というファイルを create
   - 先ほどコピーした文章を貼り付ける
   - Commitする
+  - README.md にリンクを作成する
 - Phaserの開発環境をローカルで整える(VirtualBox)
   - VirtualBoxで開発環境を構築
     - lubuntu 16.04(64bit) をインストール
