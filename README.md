@@ -6,11 +6,25 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
-# 4回目
+# 5回目
 ## 話題
 - [テラシュールブログ 【Unity】1週間ゲームジャムに参加しました。メイキング・オブ・超速ブロック崩し（仮）](http://tsubakit1.hateblo.jp/entry/2017/05/01/230531)
 
 ## 予定
+- 2Dグラフィックのフォーマットの種類、解像度、パッキング、ドット絵の描き方
+- Phaserの開発環境をローカルで整える(VirtualBox)
+  - VirtualBoxで開発環境を構築
+    - ダウンロードフォルダーにコピーしたisoファイルを仮想CDに設定
+    - 仮想PCを起動して、lubuntu 16.04(64bit) をインストール
+    - [インストールスクリプトをダウンロードして、インストール](https://github.com/am1tanaka/10k-gamedev/)
+    - Phaserの動作確認
+  - 動作確認はホストOS(Windows)側で行う
+    - 参考URL http://the2g.com/75
+- Phaserを学ぶ(1)～公式チュートリアル～
+- e-typingでキータッチの練習
+
+# 4回目
+## 内容
 - [著作権概論](04_license.md)を右クリックして、新しいタブで開く
   - 開いたページで[Raw]ボタンをクリック
   - [Ctrl]+[A]キーで全て選択したら、コピー([Ctrl]+[C]キー)
@@ -21,14 +35,12 @@
   - Commitする
   - README.md にリンクを作成する
 - Phaserの開発環境をローカルで整える(VirtualBox)
-  - VirtualBoxで開発環境を構築
-    - lubuntu 16.04(64bit) をインストール
-    - [インストールスクリプトをダウンロードして、インストール](https://github.com/am1tanaka/10k-gamedev/)
-    - Phaserの動作確認
-  - 動作確認はホストOS(Windows)側で行う
-    - 参考URL http://the2g.com/75
-- Phaserを学ぶ(1)～公式チュートリアル～
-- e-typingでキータッチの練習
+  - BIOS設定
+    - 再起動して、[Fn]+[F1]と[Fn]+[F2]を何度か押して、BIOSを起動
+    - AdvancedSettingのIntel Virtualization technologyをEnableにする
+    - [Fn]+[F10]を押して、[Enter]キーで保存
+  - VirtualBoxで仮想PC作成
+  - Lubuntu16.04(64bit)をダウンロードフォルダーにコピー
 
 # 3回目
 ## 話題
