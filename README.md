@@ -9,6 +9,7 @@
 # 5回目
 ## 話題
 - [テラシュールブログ 【Unity】1週間ゲームジャムに参加しました。メイキング・オブ・超速ブロック崩し（仮）](http://tsubakit1.hateblo.jp/entry/2017/05/01/230531)
+- [BuzzFeed Japan. 京都大学の入学式の式辞の顛末](https://headlines.yahoo.co.jp/hl?a=20170519-00010003-bfj-soci)
 
 ## 予定
 - Phaserの開発環境をローカルで整える(VirtualBox)
