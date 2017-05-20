@@ -23,6 +23,8 @@
 - Phaserを学ぶ(1)～公式チュートリアル～
   - キャラクターのパターンを確認する
 - [2Dグラフィック](05_dot.md)
+- [Tiled](http://www.mapeditor.org/)
+  - フリーでも使えるタイルマップエディター
 - e-typingでキータッチの練習
 
 # 4回目
@@ -90,3 +92,4 @@
 - [Phaserをサンドボックスで試すチュートリアル](http://am1tanaka.hatenablog.com/entry/2017/04/19/211234)
 - [Phaser](https://phaser.io)
 - [https://www.e-typing.ne.jp/](e-typing)
+- [Tiled](http://www.mapeditor.org/)
