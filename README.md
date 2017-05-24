@@ -6,6 +6,22 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 6回目
+## 予定
+- Phaserの開発環境をローカルで整える(VirtualBox)
+  - 先週、Phaserのインストールまで終わらせて、状態を保存した。その続き
+  - 画面の解像度を適正にする
+  - ホストOS(Windows)からゲストOS(Lubuntu)のHTTPサーバーにアクセス
+    - 参考URL http://the2g.com/75
+  - 作成は Lubuntu、確認はWindows
+- [2Dグラフィック(2)](05_dot.md)
+  - [Photoshopでアニメーション](http://photoshop-illustrator-meijinkai.info/photoshop-train/timeline)
+    - ダウンロードフォルダーに保存した dude.psd を読み込んで再開
+    - アニメのフレームの設定操作が途中でわからなくなったのでその確認から
+  - [Tiled](http://www.mapeditor.org/)
+    - フリーでも使えるタイルマップエディター
+    - starstruckのマップを見る
+
 # 5回目
 ## 話題
 - [テラシュールブログ 【Unity】1週間ゲームジャムに参加しました。メイキング・オブ・超速ブロック崩し（仮）](http://tsubakit1.hateblo.jp/entry/2017/05/01/230531)
@@ -14,21 +30,16 @@
 - [ITmedia ソースコードまで酷似　「堀江貴文プロデュース」アイドルサイトに盗用多数　運営者が謝罪](http://www.itmedia.co.jp/news/articles/1705/22/news063.html)
 - [有賀正博 NAVERまとめのライターに無断転載の損害賠償を支払っていただいた件](https://www.photo-yatra.tokyo/blog/archives/12696)
 
-## 予定
+## 内容
 - Phaserの開発環境をローカルで整える(VirtualBox)
   - VirtualBoxで開発環境を構築
     - ダウンロードフォルダーにコピーしたisoファイルを仮想CDに設定
     - 仮想PCを起動して、lubuntu 16.04(64bit) をインストール
     - [インストールスクリプトをダウンロードして、インストール](https://github.com/am1tanaka/10k-gamedev/)
     - Phaserの動作確認
-  - 動作確認はホストOS(Windows)側で行う
-    - 参考URL http://the2g.com/75
 - Phaserを学ぶ(1)～公式チュートリアル～
   - キャラクターのパターンを確認する
 - [2Dグラフィック](05_dot.md)
-- [Tiled](http://www.mapeditor.org/)
-  - フリーでも使えるタイルマップエディター
-- e-typingでキータッチの練習
 
 # 4回目
 ## 内容
