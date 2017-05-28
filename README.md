@@ -7,6 +7,10 @@
 - [シラバス](syllabus.md)
 
 # 6回目
+## 話題
+- https://unityroom.com/unity1weeks/3
+- [田中作品](https://unityroom.com/games/teacup-bwl)
+
 ## 予定
 - Phaserの開発環境をローカルで整える(VirtualBox)
   - 先週、Phaserのインストールまで終わらせて、状態を保存した。その続き
