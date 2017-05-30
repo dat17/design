@@ -14,17 +14,17 @@
 ## 予定
 - Phaserの開発環境をローカルで整える(VirtualBox)
   - 先週、Phaserのインストールまで終わらせて、状態を保存した。その続き
-  - 画面の解像度を適正にする
-  - ホストOS(Windows)からゲストOS(Lubuntu)のHTTPサーバーにアクセス
+  - 画面の解像度を適正にする
+  - ホストOS(Windows)からゲストOS(Lubuntu)のHTTPサーバーにアクセス
     - 参考URL http://the2g.com/75
-  - 作成は Lubuntu、確認はWindows
+  - 作成は Lubuntu、確認はWindows
 - [2Dグラフィック(2)](05_dot.md)
-  - [Photoshopでアニメーション](http://photoshop-illustrator-meijinkai.info/photoshop-train/timeline)
-    - ダウンロードフォルダーに保存した dude.psd を読み込んで再開
-    - アニメのフレームの設定操作が途中でわからなくなったのでその確認から
-  - [Tiled](http://www.mapeditor.org/)
+  - [Photoshopでアニメーション](http://photoshop-illustrator-meijinkai.info/photoshop-train/timeline)
+    - ダウンロードフォルダーに保存した dude.psd を読み込んで再開
+    - アニメのフレームの設定操作が途中でわからなくなったのでその確認から
+  - [Tiled](http://www.mapeditor.org/)
     - フリーでも使えるタイルマップエディター
-    - starstruckのマップを見る
+    - starstruckのマップを見る
 
 # 5回目
 ## 話題
