@@ -22,9 +22,11 @@
   - [Photoshopでアニメーション](http://photoshop-illustrator-meijinkai.info/photoshop-train/timeline)
     - ダウンロードフォルダーに保存した dude.psd を読み込んで再開
     - アニメのフレームの設定操作が途中でわからなくなったのでその確認から
+    - Phaserのdude.pngを書き換えて、Phaserでアニメーションをさせてみる
   - [Tiled](http://www.mapeditor.org/)
     - フリーでも使えるタイルマップエディター
     - starstruckのマップを見る
+    - 自分のマップを作成して、Phaserに読み込ませる
 
 # 5回目
 ## 話題
