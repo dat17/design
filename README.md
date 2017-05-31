@@ -19,7 +19,7 @@
     - 参考URL http://the2g.com/75
   - 作成は Lubuntu、確認はWindows
 - [2Dグラフィック(2)](05_dot.md)
-  - [Photoshopでアニメーション](http://photoshop-illustrator-meijinkai.info/photoshop-train/timeline)
+  - [Photoshopでアニメーション](https://helpx.adobe.com/jp/photoshop/kb/5784.html)
     - ダウンロードフォルダーに保存した dude.psd を読み込んで再開
     - アニメのフレームの設定操作が途中でわからなくなったのでその確認から
       - ビデオタイムラインにしていたのが原因と思われる
