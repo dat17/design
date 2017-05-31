@@ -6,18 +6,29 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
+# 7回目
+## 予定
+- 作成したドット絵を、差し替えてPhaserで動かす
+  - WindowsとLubuntuでデータをやり取りする時は、zip圧縮しないとファイルが壊れることがある
+- [Tiled](http://www.mapeditor.org/)
+  - フリーでも使えるタイルマップエディター
+  - starstruckのマップを見る
+  - 自分のマップを作成して、Phaserに読み込ませる
+- 立ち絵や背景の作成
+  - Tyrano Scriptに組み込む
+
 # 6回目
 ## 話題
 - https://unityroom.com/unity1weeks/3
 - [田中作品](https://unityroom.com/games/teacup-bwl)
 
-## 予定
+## 内容
 - Phaserの開発環境をローカルで整える(VirtualBox)
   - 先週、Phaserのインストールまで終わらせて、状態を保存した。その続き
   - 画面の解像度を適正にする
   - ホストOS(Windows)からゲストOS(Lubuntu)のHTTPサーバーにアクセス
     - 参考URL http://the2g.com/75
-  - 作成は Lubuntu、確認はWindows
+    - アクセス許可が必要だったので、Lubuntuで行う
 - [2Dグラフィック(2)](05_dot.md)
   - [Photoshopでアニメーション](https://helpx.adobe.com/jp/photoshop/kb/5784.html)
     - ダウンロードフォルダーに保存した dude.psd を読み込んで再開
@@ -28,10 +39,6 @@
       - ここから先は、ドキュメントの通り
       - Web用に保存は、[ファイル]>[書き出し]メニューにある。左下の[プレビュー]ボタンで、事前にアニメを確認できる
     - Phaserのdude.pngを書き換えて、Phaserでアニメーションをさせてみる
-  - [Tiled](http://www.mapeditor.org/)
-    - フリーでも使えるタイルマップエディター
-    - starstruckのマップを見る
-    - 自分のマップを作成して、Phaserに読み込ませる
 
 # 5回目
 ## 話題
