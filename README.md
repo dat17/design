@@ -9,13 +9,21 @@
 # 7回目
 ## 予定
 - 作成したドット絵を、差し替えてPhaserで動かす
-  - WindowsとLubuntuでデータをやり取りする時は、zip圧縮しないとファイルが壊れることがある
+  - WindowsとLubuntuでデータをやり取りする時は、zip圧縮する
 - [Tiled](http://www.mapeditor.org/)
   - フリーでも使えるタイルマップエディター
   - starstruckのマップを見る
   - 自分のマップを作成して、Phaserに読み込ませる
+- Phaser
+  - プロジェクトのはじめ方
+  - デバッグ文字の表示
+  - 文字の表示
+  - イメージの表示(自分で描いたdude.pngを表示する)
+  - ArcadePhysicシステムによる移動
+
+## 時間があれば
 - 立ち絵や背景の作成
-  - Tyrano Scriptに組み込む
+  - Tyrano Scriptに組み込む
 
 # 6回目
 ## 話題
