@@ -14,7 +14,9 @@
   - フリーでも使えるタイルマップエディター
   - starstruckのマップを見る
   - 自分のマップを作成して、Phaserに読み込ませる
-- Phaser
+  - LubuntuでWebブラウザーを起動して、Tiledで検索
+  - ダウンロードしたら、展開して、Tiledを起動
+- [Phaser](http://phaser.io/docs/2.6.2/index)
   - プロジェクトのはじめ方
   - デバッグ文字の表示
   - 文字の表示
