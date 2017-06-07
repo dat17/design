@@ -17,6 +17,7 @@
   - LubuntuでWebブラウザーを起動して、Tiledで検索
   - ダウンロードしたら、展開して、Tiledを起動
 - [Phaser](http://phaser.io/docs/2.6.2/index)
+  - [メモ](07_phaser01.md)
   - プロジェクトのはじめ方
   - デバッグ文字の表示
   - 文字の表示
