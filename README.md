@@ -10,6 +10,7 @@
 ## 予定
 - 作成したドット絵を、差し替えてPhaserで動かす
   - WindowsとLubuntuでデータをやり取りする時は、zip圧縮する
+  - [ドット絵の読み込ませ方](06_phaser-sprite.md)
 - [Tiled](http://www.mapeditor.org/)
   - フリーでも使えるタイルマップエディター
   - starstruckのマップを見る
