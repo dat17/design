@@ -6,8 +6,27 @@
 # 講義予定
 - [シラバス](syllabus.md)
 
-# 7回目
+# 参考URL
+- [Phaserのスプライト画像の用意の仕方](06_phaser-sprite.md)
+- [LubuntuでPhaserのExampleを動かす手順](06_phaser_boot.md)
+
+# 8回目
 ## 予定
+- [Phaser](http://phaser.io/docs/2.6.2/index)
+  - [メモ](07_phaser01.md)
+  - プロジェクトのはじめ方
+  - デバッグ文字の表示
+  - 文字の表示
+  - イメージの表示(自分で描いたdude.pngを表示する)
+  - ArcadePhysicシステムによる移動
+  - 画面内の跳ね返らせ方
+
+## 時間があれば
+- 立ち絵や背景の作成
+  - Tyrano Scriptに組み込む
+
+# 7回目
+## 内容
 - 作成したドット絵を、差し替えてPhaserで動かす
   - WindowsとLubuntuでデータをやり取りする時は、zip圧縮する
   - [ドット絵の読み込ませ方](06_phaser-sprite.md)
@@ -17,17 +36,6 @@
   - 自分のマップを作成して、Phaserに読み込ませる
   - LubuntuでWebブラウザーを起動して、Tiledで検索
   - ダウンロードしたら、展開して、Tiledを起動
-- [Phaser](http://phaser.io/docs/2.6.2/index)
-  - [メモ](07_phaser01.md)
-  - プロジェクトのはじめ方
-  - デバッグ文字の表示
-  - 文字の表示
-  - イメージの表示(自分で描いたdude.pngを表示する)
-  - ArcadePhysicシステムによる移動
-
-## 時間があれば
-- 立ち絵や背景の作成
-  - Tyrano Scriptに組み込む
 
 # 6回目
 ## 話題
