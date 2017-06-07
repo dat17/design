@@ -11,6 +11,10 @@
 - [LubuntuでPhaserのExampleを動かす手順](06_phaser_boot.md)
 
 # 8回目
+## 話題
+- [Unity Technologies Japan G.K. Unityインターハイ　ブログ](http://inter-high-blog.unity3d.jp/2017/06/05/blogopen/)
+  - 企画の出し方など
+
 ## 予定
 - [Phaser](http://phaser.io/docs/2.6.2/index)
   - [メモ](07_phaser01.md)
