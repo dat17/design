@@ -16,6 +16,24 @@
   - 企画の出し方など
 
 ## 予定
+- Lubuntuの修正
+  - ログイン後に画面が黒くなったときの対処
+    - Lubuntuを再起動して、すぐに右の[Shift]キーを押し続ける
+    - 起動するOSの選択画面が表示されるので、[E]キーを押す
+    - カーソルキーでカーソルを移動して、「linux」から始まる行を探して、行の最後に半角スペースを空けたあとに`nomodeset`を追加する
+    - [Fn]+[F10]キーを押して、再起動
+  - Guest Additions CDのインストール
+    - Lubuntuが起動したら、[デバイス]メニューを選択して、[Guest Additions CD イメージの挿入]を選択
+    - デスクトップに[VBOXADDITIONS_・・・]というアイコンが表示されて、[リムーバブルメディアの挿入]というウィンドウが表示されたら、[OK]をクリック
+    - [VBoxLinuxAdditions.run]ファイルを右クリックして、[パスをコピーする]を選択
+    - [スタート]メニューをクリックして、[実行]をクリック
+    - `lxte`と入力して、LXTerminalを起動
+    - `sudo`と入力したあとに、[スペース]キーを押してから、画面を右クリックして、[貼り付け]を選択して、[Enter]キーを押す
+    - パスワードを入力して、[Enter]キーを押す
+  - Phaserのシンプルプロジェクトの修正
+    - 引き続き、LXTerminalで作業する
+    - `cd ~/phaser/phaser-template-simple`と入力して、[Enter]キーを押して、パスを移動
+    - `mv phaser-boilerplate ..`と入力して、[Enter]キーを押す
 - [Phaser](http://phaser.io/docs/2.6.2/index)
   - [メモ](07_phaser01.md)
   - プロジェクトのはじめ方
