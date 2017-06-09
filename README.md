@@ -9,6 +9,8 @@
 # 参考URL
 - [Phaserのスプライト画像の用意の仕方](06_phaser-sprite.md)
 - [LubuntuでPhaserのExampleを動かす手順](06_phaser_boot.md)
+- [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
+- [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 8回目
 ## 話題
