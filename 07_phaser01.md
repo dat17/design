@@ -61,7 +61,7 @@ function update() {
 - Atomで_site/js/render.jsを開きます
 - `function render() {`の下の行にコードを追加して、以下のようにします
 ```javascript
-t
+
 ```
 
 
