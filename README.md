@@ -18,7 +18,7 @@
   - 企画の出し方など
 
 ## 予定
-- (ライブ配信](https://www.youtube.com/embed/PAtsq8Ubye4)
+- [ライブ配信](https://www.youtube.com/embed/PAtsq8Ubye4) 右クリックして、新しいウィンドウで開く
 - Lubuntuの修正
   - ログイン後に画面が黒くなったときの対処
     - Lubuntuを再起動して、すぐに右の[Shift]キーを押し続ける
