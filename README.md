@@ -12,12 +12,31 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 9回目
+## 参考URL
+- [Phaser](http://phaser.io/docs/2.6.2/index)
+
+## 予定
+- ライブ配信
+- 前回の復習
+  - rm -rf first で前回のフォルダーを削除
+  - 最初からやり直す
+  - [メモ](07_phaser01.md)
+- マウスカーソルをdudeに追わせる
+- ダイヤとdroidを沢山作って跳ね返す
+- キャラクター同士の当たり判定
+
+## 時間があれば
+- 立ち絵や背景の作成
+  - Tyrano Scriptに組み込む
+
+
 # 8回目
 ## 話題
 - [Unity Technologies Japan G.K. Unityインターハイ　ブログ](http://inter-high-blog.unity3d.jp/2017/06/05/blogopen/)
   - 企画の出し方など
 
-## 予定
+## 内容
 - [ライブ配信](https://www.youtube.com/embed/PAtsq8Ubye4) 右クリックして、新しいウィンドウで開く
 - Lubuntuの修正
   - ログイン後に画面が黒くなったときの対処
