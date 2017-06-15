@@ -13,6 +13,9 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 9回目
+## 前回の動画
+- [8回目の講義内容](https://www.youtube.com/embed/gM2vFEWG_NE)
+
 ## 話題
 - [バンダイナムコ VR ZONE SHINJUKU 7/14から](http://www.phileweb.com/news/d-av/201706/13/41416.html)
 
