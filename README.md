@@ -36,12 +36,14 @@
 - 立ち絵や背景の作成
   - Tyrano Scriptに組み込む
 
-### ドット絵
+### イラスト関連
 - [Photoshop Illustrator 名人会 GIF, JPEG, PNGの違いを理解して軽くてきれいな画像を作ろう](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
+- [ティラノスクリプト 便利サイトリンク集](http://tyrano.jp/commu/link)
+- [小樽総合デザイン事務局 初心者でもできる！写真をイラスト風に加工するチュートリアルまとめました：Photoshop](http://otarunet.com/it/webdesign/photoshop-photo-illustration/)
+- [小樽総合デザイン事務局 Photoshop　5分でできる写真をドット絵風に加工する方法](http://otarunet.com/it/webdesign/photoshop-photo-dotto/)
 - [面白法人KAYAC ドット絵描く楽な方法見つけた！気がする](http://design.kayac.com/topics/2012/02/post-47.php)
   - イラストをドット絵にする
-- [小樽総合デザイン事務局 Photoshop　5分でできる写真をドット絵風に加工する方法](http://otarunet.com/it/webdesign/photoshop-photo-dotto/)
-  - 他にも様々な表現方法の記事がある
+
 
 # 8回目
 ## 話題
