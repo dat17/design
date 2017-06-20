@@ -23,7 +23,7 @@
 - [Phaser](http://phaser.io/docs/2.6.2/index)
 
 ## 予定
-- ライブ配信
+- [ライブ配信](https://www.youtube.com/embed/ClfbhgLK4Cw)
 - 前回の復習
   - rm -rf first で前回のフォルダーを削除
   - 最初からやり直す
@@ -36,6 +36,12 @@
 - 立ち絵や背景の作成
   - Tyrano Scriptに組み込む
 
+### ドット絵
+- [Photoshop Illustrator 名人会 GIF, JPEG, PNGの違いを理解して軽くてきれいな画像を作ろう](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
+- [面白法人KAYAC ドット絵描く楽な方法見つけた！気がする](http://design.kayac.com/topics/2012/02/post-47.php)
+  - イラストをドット絵にする
+- [小樽総合デザイン事務局 Photoshop　5分でできる写真をドット絵風に加工する方法](http://otarunet.com/it/webdesign/photoshop-photo-dotto/)
+  - 他にも様々な表現方法の記事がある
 
 # 8回目
 ## 話題
