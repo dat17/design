@@ -25,9 +25,9 @@
 ## 予定
 - [ライブ配信](https://www.youtube.com/embed/ClfbhgLK4Cw)
 - 前回の復習
-  - rm -rf first で前回のフォルダーを削除
-  - 最初からやり直す
-  - [メモ](07_phaser01.md)
+  - rm -rf first で前回のフォルダーを削除
+  - 最初からやり直す
+  - [メモ](07_phaser01.md)
 - マウスカーソルをdudeに追わせる
 - ダイヤとdroidを沢山作って跳ね返す
 - キャラクター同士の当たり判定
