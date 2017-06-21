@@ -12,6 +12,18 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 10回目
+## 参考URL
+- [Phaser](http://phaser.io/docs/2.6.2/index)
+
+## 予定
+- [ライブ配信]()
+- 複数のキャラクターを表示
+- 当たり判定
+- プレイヤーを操作
+- [前回の写真をイラスト調にするのをやり直す](http://otarunet.com/it/webdesign/photoshop-photo-suisai/)
+- Tyrano ScriptやUnity、Phaserで表示する
+
 # 9回目
 ## 前回の動画
 - [8回目の講義内容](https://www.youtube.com/embed/gM2vFEWG_NE)
@@ -19,22 +31,14 @@
 ## 話題
 - [バンダイナムコ VR ZONE SHINJUKU 7/14から](http://www.phileweb.com/news/d-av/201706/13/41416.html)
 
-## 参考URL
-- [Phaser](http://phaser.io/docs/2.6.2/index)
-
-## 予定
+## 内容
 - [ライブ配信](https://www.youtube.com/embed/ClfbhgLK4Cw)
 - 前回の復習
-  - rm -rf first で前回のフォルダーを削除
-  - 最初からやり直す
+  - secondを作成して、最初からやり直す
   - [メモ](07_phaser01.md)
 - マウスカーソルをdudeに追わせる
-- ダイヤとdroidを沢山作って跳ね返す
 - キャラクター同士の当たり判定
-
-## 時間があれば
 - 立ち絵や背景の作成
-  - Tyrano Scriptに組み込む
 
 ### イラスト関連
 - [Photoshop Illustrator 名人会 GIF, JPEG, PNGの違いを理解して軽くてきれいな画像を作ろう](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
