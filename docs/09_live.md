@@ -9,9 +9,9 @@ https://youtu.be/ClfbhgLK4Cw?t=8m03s
 - 端末(LXTerminal)の操作
 https://youtu.be/ClfbhgLK4Cw?t=10m32s
   - ディレクトリー一覧表示 `ls`
-  - カレントディレクトリー移動 `cd フォルダー名`
 - 前回作成したプロジェクト first を見る
-https://youtu.be/ClfbhgLK4Cw?t=14m03s
+https://youtu.be/ClfbhgLK4Cw?t=11m15s
+  - カレントディレクトリー移動 `cd フォルダー名`
   - Atomエディターの起動
   - HTTPサーバーとブラウザーの起動
   - HTTPサーバーの停止([Ctrl]+[X]キー)
@@ -27,7 +27,7 @@ https://youtu.be/ClfbhgLK4Cw?t=35m25s
 - アニメーション
 https://youtu.be/ClfbhgLK4Cw?t=48m00s
 - エラーの探し方
-https://youtu.be/ClfbhgLK4Cw?t=57m53s
+https://youtu.be/ClfbhgLK4Cw?t=58m20s
 - Tabの字下げ文字数を4文字に設定
 https://youtu.be/ClfbhgLK4Cw?t=1h5m50s
 - updateで自前でキャラクターを移動させる
