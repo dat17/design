@@ -1,18 +1,19 @@
 # ゲームデザイン実習
 2017年度 デジタルアーツ東京 ゲームデザイン実習用リポジトリー。
 
-本講義で利用するリポジトリーはこちら > https://github.com/dat17/design
-
 # 講義予定
 - [シラバス](syllabus.md)
 
 # 参考URL
-- [Phaserのスプライト画像の用意の仕方](06_phaser-sprite.md)
-- [LubuntuでPhaserのExampleを動かす手順](06_phaser_boot.md)
+- [Phaserのスプライト画像の用意の仕方](docs/06_phaser-sprite.md)
+- [LubuntuでPhaserのExampleを動かす手順](docs/06_phaser_boot.md)
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 10回目
+## 前回の動画の目次
+- [9回目の講義内容](docs/09_live.md)
+
 ## 参考URL
 - [Phaser](http://phaser.io/docs/2.6.2/index)
 
@@ -75,7 +76,7 @@
     - `cd ~/phaser/phaser-template-simple`と入力して、[Enter]キーを押して、パスを移動
     - `mv phaser-boilerplate ..`と入力して、[Enter]キーを押す
 - [Phaser](http://phaser.io/docs/2.6.2/index)
-  - [メモ](07_phaser01.md)
+  - [メモ](docs/07_phaser01.md)
   - プロジェクトのはじめ方
   - デバッグ文字の表示
   - 文字の表示
@@ -91,7 +92,7 @@
 ## 内容
 - 作成したドット絵を、差し替えてPhaserで動かす
   - WindowsとLubuntuでデータをやり取りする時は、zip圧縮する
-  - [ドット絵の読み込ませ方](06_phaser-sprite.md)
+  - [ドット絵の読み込ませ方](docs/06_phaser-sprite.md)
 - [Tiled](http://www.mapeditor.org/)
   - フリーでも使えるタイルマップエディター
   - starstruckのマップを見る
@@ -111,7 +112,7 @@
   - ホストOS(Windows)からゲストOS(Lubuntu)のHTTPサーバーにアクセス
     - 参考URL http://the2g.com/75
     - アクセス許可が必要だったので、Lubuntuで行う
-- [2Dグラフィック(2)](05_dot.md)
+- [2Dグラフィック(2)](docs/05_dot.md)
   - [Photoshopでアニメーション](https://helpx.adobe.com/jp/photoshop/kb/5784.html)
     - ダウンロードフォルダーに保存した dude.psd を読み込んで再開
     - アニメのフレームの設定操作が途中でわからなくなったのでその確認から
@@ -139,11 +140,11 @@
     - Phaserの動作確認
 - Phaserを学ぶ(1)～公式チュートリアル～
   - キャラクターのパターンを確認する
-- [2Dグラフィック](05_dot.md)
+- [2Dグラフィック](docs/05_dot.md)
 
 # 4回目
 ## 内容
-- [著作権概論](04_license.md)を右クリックして、新しいタブで開く
+- [著作権概論](docs/04_license.md)を右クリックして、新しいタブで開く
   - 開いたページで[Raw]ボタンをクリック
   - [Ctrl]+[A]キーで全て選択したら、コピー([Ctrl]+[C]キー)
   - 自分のアカウントに戻る
@@ -180,7 +181,7 @@
 - ゲームオーバー条件（あれば）
 - 得点方法（あれば）
 - 登場するもの（オブジェクト）リスト
- 
+
 # 2回目
 ## 話題
 - https://unite.unity.com/ja/2017/tokyo
@@ -189,11 +190,11 @@
 - e-typingの練習2回目
   - しばらくやって、今日の最高スコアをGoogleスプレッドシートのC列の自分の出席番号の行に書き込む
 - [Phaserを続きから](http://am1tanaka.hatenablog.com/entry/2017/04/18/141813)
-- [Tyrano Script](02_tyrano.md)
+- [Tyrano Script](docs/02_tyrano.md)
 
 # 1回目
 - ガイダンス
-- [アカウントの登録](01.md)
+- [アカウントの登録](docs/01.md)
   - Gmail / Microsoft Account / GitHub / e-typing
 - e-typingでキータッチの練習
 - [HTML5ゲームエンジン Phaserを試す](http://am1tanaka.hatenablog.com/entry/2017/04/19/211234)
