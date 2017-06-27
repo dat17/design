@@ -19,9 +19,12 @@
 
 ## 予定
 - [ライブ配信]()
-- 複数のキャラクターを表示
-- 当たり判定
-- プレイヤーを操作
+- [Phaserでの乱数](https://github.com/am1tanaka/phaser-javascript/blob/master/Random.md)
+- [複数のキャラクターを表示～for文～](https://github.com/am1tanaka/phaser-javascript/blob/master/Kurikaeshi.md)
+- [グループ/当たり判定](http://am1tanaka.hatenablog.com/entry/2017/04/18/180408)
+  - http://phaser.io/docs/2.4.4/Phaser.Group.html
+- プレイヤーを速度で操作
+  - マウスをdudeが追いかけるように作る
 - [前回の写真をイラスト調にするのをやり直す](http://otarunet.com/it/webdesign/photoshop-photo-suisai/)
 - Tyrano ScriptやUnity、Phaserで表示する
 
