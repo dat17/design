@@ -14,6 +14,10 @@
 ## 前回の動画の目次
 - [9回目の講義内容](docs/09_live.md)
 
+## 話題
+- [Unity1週間ゲームジャム 3回目](https://unityroom.com/unity1weeks/4)
+  - [田中の作品 Unite Star Dust!](https://unityroom.com/games/unite-star-dust)
+
 ## 参考URL
 - [Phaser](http://phaser.io/docs/2.6.2/index)
 
