@@ -22,7 +22,7 @@
 - [Phaser](http://phaser.io/docs/2.6.2/index)
 
 ## 予定
-- [ライブ配信]()
+- [ライブ配信](https://www.youtube.com/embed/nFcjEF5DPqg)
 - [Phaserでの乱数](https://github.com/am1tanaka/phaser-javascript/blob/master/Random.md)
 - [複数のキャラクターを表示～for文～](https://github.com/am1tanaka/phaser-javascript/blob/master/Kurikaeshi.md)
 - [グループ/当たり判定](http://am1tanaka.hatenablog.com/entry/2017/04/18/180408)
