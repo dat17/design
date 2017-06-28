@@ -10,6 +10,16 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 11回目
+## 前回の動画の目次
+- 10回目の講義内容
+
+## 予定
+- プレイヤーを速度で操作
+  - マウスをdudeが追いかけるように作る
+- Phaserの状態遷移
+- Tyrano ScriptやUnity、Phaserで自分のキャラクターや背景を表示する
+
 # 10回目
 ## 前回の動画の目次
 - [9回目の講義内容](docs/09_live.md)
@@ -21,16 +31,13 @@
 ## 参考URL
 - [Phaser](http://phaser.io/docs/2.6.2/index)
 
-## 予定
+## 内容
 - [ライブ配信](https://www.youtube.com/embed/nFcjEF5DPqg)
 - [Phaserでの乱数](https://github.com/am1tanaka/phaser-javascript/blob/master/Random.md)
 - [複数のキャラクターを表示～for文～](https://github.com/am1tanaka/phaser-javascript/blob/master/Kurikaeshi.md)
 - [グループ/当たり判定](http://am1tanaka.hatenablog.com/entry/2017/04/18/180408)
   - http://phaser.io/docs/2.4.4/Phaser.Group.html
-- プレイヤーを速度で操作
-  - マウスをdudeが追いかけるように作る
 - [前回の写真をイラスト調にするのをやり直す](http://otarunet.com/it/webdesign/photoshop-photo-suisai/)
-- Tyrano ScriptやUnity、Phaserで表示する
 
 # 9回目
 ## 前回の動画
