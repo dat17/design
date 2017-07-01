@@ -43,9 +43,20 @@ https://youtu.be/nFcjEF5DPqg?t=1h46m51s
 - `let star = stars.create(X, Y, 'スプライト名');`で、`stars`グループの指定座標にスプライトを追加して、そのハンドルを一時変数の`star`に代入
   - https://youtu.be/nFcjEF5DPqg?t=1h54m58s
 - foreachをコメントアウトして、for文で処理。配列は不要になったので、インデックスを削除
-- 個別に設定してた物理挙動の有効設定(`game.physics.arcade.enable(star[i]);`)を削除
+- 個別に設定してた物理挙動の有効設定(`game.physics.arcade.enable(star[i]);`)を削除(動画では`physics`の綴りを間違えているので注意！)
 - 更新処理(update.js)を一旦、コメントアウトしてエラーを出さないようにして、実行をチェック https://youtu.be/nFcjEF5DPqg?t=1h58m4s
 - update.jsをグループに対応 https://youtu.be/nFcjEF5DPqg?t=2h9m19s 
   - `dude`と`stars`グループを接触設定。これで、dudeにぶつかった星が、跳ね返るようになる https://youtu.be/nFcjEF5DPqg?t=2h9m27s
-  - 衝突時のコールバックを設定 https://youtu.be/nFcjEF5DPqg?t=2h15m45s
+  - 衝突時に関数を呼び出させる設定 https://youtu.be/nFcjEF5DPqg?t=2h15m45s
     - `game.physics.arcade.overlap(対象1, 対象2, 呼び出す関数, 呼び出し前のチェック(nullにすると、接触していたら無条件で呼び出す), 呼び出し関数内のthis(通常、thisでよい);`
+  - 衝突時に呼び出す関数`pickStar`を作る https://youtu.be/nFcjEF5DPqg?t=2h18m15s
+
+グループを使うことで、いくつかの初期化が楽になり、updateでは繰り返しが不要になった。
+
+## 写真をイラスト風にするチュートリアル
+
+https://youtu.be/nFcjEF5DPqg?t=2h28m44s
+
+- 作成した背景を、ティラノスクリプトに読み込む　https://youtu.be/nFcjEF5DPqg?t=2h58m35s
+- キャラクターを表示 https://youtu.be/nFcjEF5DPqg?t=3h5m20s
+
