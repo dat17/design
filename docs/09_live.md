@@ -1,4 +1,4 @@
-# 9回目 デスクトップ動画
+# 9回目 デスクトップ動画目次
 
 - Lubuntuの更新(基本的に毎回行う)
 https://youtu.be/ClfbhgLK4Cw?t=5m00s
