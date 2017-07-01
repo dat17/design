@@ -12,7 +12,7 @@
 
 # 11回目
 ## 前回の動画の目次
-- 10回目の講義内容
+- [10回目の講義内容](https://github.com/dat17/design/blob/master/docs/10_live.md)
 
 ## 予定
 - プレイヤーを速度で操作
