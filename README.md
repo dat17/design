@@ -14,13 +14,15 @@
 ## 前回の動画の目次
 - [10回目の講義内容](https://github.com/dat17/design/blob/master/docs/10_live.md)
 
+## 話題
+- [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
+
 ## 予定
-- プレイヤーをキー操作
-- 星の数を数える
-- 全て取ったら止める
-- 敵を出現
-- 敵にぶつかったら止める
-- Phaserの状態遷移
+- [手順メモ](docs/11_memo.md)
+  - プレイヤーがマウスをクリックした場所を目指すように変更
+  - 星を全て取ったらclearと表示
+  - 敵を追加
+  - 敵にぶつかったらmissと表示
 - Tyrano ScriptやUnity、Phaserで自分のキャラクターや背景を表示する
 
 # 10回目
