@@ -15,8 +15,11 @@
 - [10回目の講義内容](https://github.com/dat17/design/blob/master/docs/10_live.md)
 
 ## 予定
-- プレイヤーを速度で操作
-  - マウスをdudeが追いかけるように作る
+- プレイヤーをキー操作
+- 星の数を数える
+- 全て取ったら止める
+- 敵を出現
+- 敵にぶつかったら止める
 - Phaserの状態遷移
 - Tyrano ScriptやUnity、Phaserで自分のキャラクターや背景を表示する
 
