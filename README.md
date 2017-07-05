@@ -18,6 +18,7 @@
 - [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
 
 ## 予定
+- [今回の画面のライブ配信](https://www.youtube.com/watch?v=jvhJIO3qAcI)
 - [手順メモ](docs/11_memo.md)
   - プレイヤーがマウスをクリックした場所を目指すように変更
   - 星を全て取ったらclearと表示
