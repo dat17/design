@@ -56,7 +56,7 @@
 - [ライブ配信](https://www.youtube.com/embed/ClfbhgLK4Cw)
 - 前回の復習
   - secondを作成して、最初からやり直す
-  - [メモ](07_phaser01.md)
+  - [メモ](docs/07_phaser01.md)
 - マウスカーソルをdudeに追わせる
 - キャラクター同士の当たり判定
 - 立ち絵や背景の作成
@@ -96,13 +96,13 @@
     - `cd ~/phaser/phaser-template-simple`と入力して、[Enter]キーを押して、パスを移動
     - `mv phaser-boilerplate ..`と入力して、[Enter]キーを押す
 - [Phaser](http://phaser.io/docs/2.6.2/index)
-  - [メモ](docs/07_phaser01.md)
-  - プロジェクトのはじめ方
-  - デバッグ文字の表示
-  - 文字の表示
-  - イメージの表示(自分で描いたdude.pngを表示する)
-  - ArcadePhysicシステムによる移動
-  - 画面内の跳ね返らせ方
+  - [メモ](docs/07_phaser01.md)
+  - プロジェクトのはじめ方
+  - デバッグ文字の表示
+  - 文字の表示
+  - イメージの表示(自分で描いたdude.pngを表示する)
+  - ArcadePhysicシステムによる移動
+  - 画面内の跳ね返らせ方
 
 ## 時間があれば
 - 立ち絵や背景の作成
@@ -112,7 +112,7 @@
 ## 内容
 - 作成したドット絵を、差し替えてPhaserで動かす
   - WindowsとLubuntuでデータをやり取りする時は、zip圧縮する
-  - [ドット絵の読み込ませ方](docs/06_phaser-sprite.md)
+  - [ドット絵の読み込ませ方](docs/06_phaser-sprite.md)
 - [Tiled](http://www.mapeditor.org/)
   - フリーでも使えるタイルマップエディター
   - starstruckのマップを見る
