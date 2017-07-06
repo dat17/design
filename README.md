@@ -10,14 +10,22 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 12回目
+## 話題
+- [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
+
+## 予定：Phaser版よけとるの開発
+- Phaserでシーン管理 state
+- 新しいプロジェクトを作成
+- 全てのシーンを作成
+- シーン切り替えの実装
+- ゲームの開発
+
 # 11回目
 ## 前回の動画の目次
 - [10回目の講義内容](https://github.com/dat17/design/blob/master/docs/10_live.md)
 
-## 話題
-- [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
-
-## 予定
+## 内容
 - [今回の画面のライブ配信](https://www.youtube.com/watch?v=jvhJIO3qAcI)
 - [手順メモ](docs/11_memo.md)
   - プレイヤーがマウスをクリックした場所を目指すように変更
