@@ -11,6 +11,9 @@
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
 # 12回目
+## 前回の動画の目次
+- [11回目の講義内容](docs/11_live.md)
+
 ## 話題
 - [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
 
@@ -23,7 +26,7 @@
 
 # 11回目
 ## 前回の動画の目次
-- [10回目の講義内容](https://github.com/dat17/design/blob/master/docs/10_live.md)
+- [10回目の講義内容](docs/10_live.md)
 
 ## 内容
 - [今回の画面のライブ配信](https://www.youtube.com/watch?v=jvhJIO3qAcI)
