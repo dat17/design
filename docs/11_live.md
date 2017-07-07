@@ -36,4 +36,42 @@
 GitHubのサービスである`GitHub Pages`を使うと、Webページを公開することができる。Phaserで作成したデータをGitHub Pagesで公開すれば、スマートフォンで動作を確認できる。
 
 - デスクトップにあるWindowsと共有しているフォルダーを開いて、必要なフォルダーをコピーする https://youtu.be/jvhJIO3qAcI?t=1h43m23s
+  - ~/phaser/secondフォルダーをコピー
+  - Windowsに切り替える
+- Windows側で、Lubuntuとの共有フォルダーを開く https://youtu.be/jvhJIO3qAcI?t=1h50m19s
+  - ドキュメント>自分の苗字のフォルダー>lubuntu
+- もう一つエクスプローラーを開いて、コピー先を開く https://youtu.be/jvhJIO3qAcI?t=1h50m58s
+- コピー https://youtu.be/jvhJIO3qAcI?t=1h51m17s
+  - .gitフォルダーを削除
+- GitHubにsecondを登録する https://youtu.be/jvhJIO3qAcI?t=1h54m33s
+  - コミットして、Publishする
+- アップロードした先をWebブラウザーで開く https://youtu.be/jvhJIO3qAcI?t=2h33s
+- GitHub Pagesの登録　https://youtu.be/jvhJIO3qAcI?t=2h2m17s
+- 登録が完了したら、設定の上にWebページのURLが表示される。これを開くと、ページが確認できる https://youtu.be/jvhJIO3qAcI?t=2h5m29
+  - 見つからない。通常に公開するだけだと、プロジェクト直下のHTMLのみがWebページとして認識される
+  - docsフォルダーを公開することにして、_siteフォルダーをリネームする
+- `_site`フォルダーの名前を`docs`に変更 https://youtu.be/jvhJIO3qAcI?t=2h10m42s
+  - GitHub DesktopでコミットしてSync
+- GitHub Pagesの設定を変更 https://youtu.be/jvhJIO3qAcI?t=2h11m11s
+  - 実行できるようになった。キャラクターが表示されなくなったので、設定をする
+- `preload`に、読み込みもとの設定を追加して、パスを変更する https://youtu.be/jvhJIO3qAcI?t=2h20m40s
+  - 変更したら保存して、コミットしてSync
+  - Webブラウザーはキャッシュの削除とハード再読み込み https://youtu.be/jvhJIO3qAcI?t=2h26m
+- このままではスマートフォンで操作が反映しなかったので、`pointer1`の`isDown`を追加 https://youtu.be/jvhJIO3qAcI?t=2h34m52s
+  - GitHubにアップロードしたので、Webブラウザー上で直接プログラムを書き換えれば、すぐにスマートフォンの動作にも反映できる
+  - この時点でのソースコードは、サンプルの`player`を`dude`に書き換えてなく、エラーが発生したためにスマートフォンに反映していなかった。修正が必要
 
+## 星の数を数える
+- https://youtu.be/jvhJIO3qAcI?t=2h43m55s
+- 数える変数を`stars`グループに追加 https://youtu.be/jvhJIO3qAcI?t=2h47m3s
+- 星を作るループ内でカウントアップ https://youtu.be/jvhJIO3qAcI?t=2h48m32s
+- 星を取った処理の中で、カウントダウンと、0になったときの処理 https://youtu.be/jvhJIO3qAcI?t=2h51m55s
+
+## 敵を出す
+- 星を参考に作業をする https://youtu.be/jvhJIO3qAcI?t=2h56m23s
+
+
+# まとめ
+- この講義では、ただ写すのではなく、自分で調べて、考えて、サンプルを利用する練習をした
+- 完成しなかった場合は、改めて動画を振り返って、作業をして、理解を深めておくこと
+- 次回からは新しいプロジェクトを作成するので、今回のものが完成していなくても今後の作業に支障は出ない
