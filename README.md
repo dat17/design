@@ -13,6 +13,8 @@
 # 12回目
 ## 前回の動画の目次
 - [11回目の講義内容](docs/11_live.md)
+- 前回のマウスなど
+  - game.input.activePointerを使うと、マウスとスマホを共存できるかも
 
 ## 話題
 - [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
