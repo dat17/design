@@ -18,10 +18,9 @@
 - [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
 
 ## 予定：Phaser版よけとるの開発
-- Phaserでシーン管理 state
-- 新しいプロジェクトを作成
-- 全てのシーンを作成
-- シーン切り替えの実装
+- [今回の画面のライブ配信]()
+- [Phaserでシーン管理 state](https://github.com/am1tanaka/phaser-javascript/blob/master/PhaserState.md)
+- [シーン対応のプロジェクトをダウンロードして、Lubuntuに移動](https://github.com/am1tanaka/phaser-template-small)
 - ゲームの開発
 
 # 11回目
