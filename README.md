@@ -20,7 +20,7 @@
 - [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
 
 ## 予定：Phaser版よけとるの開発
-- [今回の画面のライブ配信]()
+- [今回の画面のライブ配信](https://www.youtube.com/watch?v=eWYYoveeJ5U)
 - [Phaserでシーン管理 state](https://github.com/am1tanaka/phaser-javascript/blob/master/PhaserState.md)
 - [シーン対応のプロジェクトをダウンロードして、Lubuntuに移動](https://github.com/am1tanaka/phaser-template-small)
 - ゲームの開発
