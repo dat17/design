@@ -10,6 +10,10 @@
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
 
+# 13回目
+## 前回の動画の目次
+- [12回目の講義内容](docs/12_live.md)
+
 # 12回目
 ## 前回の動画の目次
 - [11回目の講義内容](docs/11_live.md)
@@ -19,7 +23,7 @@
 ## 話題
 - [unity道場 ゲーム開発者のためのタイポグラフィ講座](https://www.slideshare.net/UnityTechnologiesJapan/ss-77467062)
 
-## 予定：Phaser版よけとるの開発
+## 内容：Phaser版よけとるの開発
 - [今回の画面のライブ配信](https://www.youtube.com/watch?v=eWYYoveeJ5U)
 - [Phaserでシーン管理 state](https://github.com/am1tanaka/phaser-javascript/blob/master/PhaserState.md)
 - [シーン対応のプロジェクトをダウンロードして、Lubuntuに移動](https://github.com/am1tanaka/phaser-template-small)
