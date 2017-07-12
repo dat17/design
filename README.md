@@ -28,20 +28,20 @@
   - 共有フォルダー内のまま、作業
   - GitHubなどへの反映は、Windows側で行う
 - ゲームの企画
-  - ミニゲーム
-    - yoketoru(UnityでもPhaser)を改造したもの(ルールを追加するなど)
-      - 障害物を作る
-      - 弾を撃つ
-      - 敵の動きのバリエーションを増やす
-      - 演出(パーティクル)
-      - 画面を綺麗にする
-    - あるいは、インターネット上にチュートリアル
-      - ひよこのたまご http://hiyotama.hatenablog.com/
+  - ミニゲーム
+    - yoketoru(UnityでもPhaser)を改造したもの(ルールを追加するなど)
+      - 障害物を作る
+      - 弾を撃つ
+      - 敵の動きのバリエーションを増やす
+      - 演出(パーティクル)
+      - 画面を綺麗にする
+    - あるいは、インターネット上にチュートリアル
+      - ひよこのたまご http://hiyotama.hatenablog.com/
       - Unityの公式 https://unity3d.com/jp/learn/tutorials
-      - AssetStore https://www.assetstore.unity3d.com/jp/#!/search/page=1/sortby=popularity/query=price:0&category:98
-      - 本棚の書籍
-  - 使ったアセットや参考にしたサイトの作者とURLをメモしておくこと
-  - 何を改造、あるいは追加したのかを明確にする
+      - AssetStore https://www.assetstore.unity3d.com/jp/#!/search/page=1/sortby=popularity/query=price:0&category:98
+      - 本棚の書籍
+    - 使ったアセットや参考にしたサイトの作者とURLをメモしておくこと
+  - 何を改造、あるいは追加したのかを明確にする
 
 # 11回目
 ## 前回の動画の目次
