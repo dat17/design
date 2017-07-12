@@ -23,6 +23,10 @@
 - [今回の画面のライブ配信](https://www.youtube.com/watch?v=eWYYoveeJ5U)
 - [Phaserでシーン管理 state](https://github.com/am1tanaka/phaser-javascript/blob/master/PhaserState.md)
 - [シーン対応のプロジェクトをダウンロードして、Lubuntuに移動](https://github.com/am1tanaka/phaser-template-small)
+  - 共有フォルダーに入れる
+  - secoundフォルダーから、`_site`フォルダー内の`assets`フォルダーと`js/vendor`フォルダーを上書きコピーする
+  - 共有フォルダー内のまま、作業
+  - GitHubなどへの反映は、Windows側で行う
 - ゲームの開発
 
 # 11回目
