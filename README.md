@@ -21,6 +21,9 @@
 - よけとるにグラフィックや音を入れる
 - 夏休み企画
 
+## 話題
+- [Unity3D Japan 【Unite 2017 Tokyo】Unityで楽しむノンフォトリアルな絵づくり講座：トゥーンシェーダー・マニアクス](https://www.youtube.com/watch?v=6aNB9LhSx7g)
+
 ## 夏休みの課題：ミニゲームの開発
 Unity、Phaserのいずれかで、ミニゲームを開発する。
 
