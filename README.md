@@ -22,6 +22,7 @@
 - 夏休み企画
 
 ## 話題
+- [染谷翔 スキルがない人のための企画アイディア出しのコツ](https://drive.google.com/file/d/0B7bGK4Tdb-GqZDM0UWRaOTZqdE0/view)
 - [Unity3D Japan 【Unite 2017 Tokyo】Unityで楽しむノンフォトリアルな絵づくり講座：トゥーンシェーダー・マニアクス](https://www.youtube.com/watch?v=6aNB9LhSx7g)
 - [学生時代に知っておきたかったWeb技術の学び方の学び方 | リブセンス](https://www.slideshare.net/livesense/web-49772012)
 
