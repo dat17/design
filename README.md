@@ -15,10 +15,10 @@
 - [12回目の講義内容](docs/12_live.md)
 
 ## 補足
-- [前回、講義中に開けなかったPhaserのシーン管理ドキュメント](https://github.com/am1tanaka/phaser-javascript/blob/master/StateManager.md)
+- [前回、講義中に開けなかったPhaserのシーン管理ドキュメント](https://github.com/am1tanaka/phaser-javascript/blob/master/StateMachine.md)
 
 ## 予定
-- よけとるにグラフィックや音を入れる
+- [Unityのよけとるの仕上げ](https://github.com/dat17/gp1)
 - 夏休み企画
 
 ## 話題
