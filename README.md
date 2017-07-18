@@ -13,6 +13,14 @@
 # 13回目
 ## 前回の動画の目次
 - [12回目の講義内容](docs/12_live.md)
+- 前回の金曜日欠席の人
+  - https://github.com/dat17/yoketoru を開く
+  - 右の[Clone or Download]ボタンをクリックして、[Download ZIP]をクリックしてダウンロード
+  - ダウンロードが完了したら、ファイルを開く
+  - スタートメニューから、コンピュータを開いて、[ライブラリ]>[ドキュメント]>[パブリックのドキュメント]>[Unity17]フォルダーを開いておく
+  - フォルダーが開くので、[yoketoru-master]フォルダーをドラッグして、上で開いた[Unity17]フォルダーにドロップしてコピー
+
+以上で準備完了。Unityを開いて、[OPEN]をクリックして、[ライブラリ]>[ドキュメント]>[パブリックのドキュメント]>[Unity17]>[yoketoru-master]フォルダーを開く
 
 ## 補足
 - [前回、講義中に開けなかったPhaserのシーン管理ドキュメント](https://github.com/am1tanaka/phaser-javascript/blob/master/StateMachine.md)
