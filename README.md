@@ -26,6 +26,7 @@
 - [前回、講義中に開けなかったPhaserのシーン管理ドキュメント](https://github.com/am1tanaka/phaser-javascript/blob/master/StateMachine.md)
 
 ## 予定
+- [今回の画面のライブ配信](https://www.youtube.com/watch?v=ON5X-LRJBQs)
 - [Unityのよけとるの仕上げ](https://github.com/dat17/gp1)
 - 夏休み企画
 
