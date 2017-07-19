@@ -27,7 +27,7 @@
 
 ## 予定
 - [今回の画面のライブ配信](https://www.youtube.com/watch?v=ON5X-LRJBQs)
-- [Unityのよけとるの仕上げ](https://github.com/dat17/gp1)
+- [Unityのよけとるの仕上げ](https://github.com/dat17/gp1/blob/master/docs/13-shiage.md)
 - 夏休み企画
 
 ## 話題
