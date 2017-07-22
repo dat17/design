@@ -20,6 +20,8 @@
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 # 13回目
+- [13回目の講義内容](docs/13_live.md)
+
 ## 前回の動画の目次
 - [12回目の講義内容](docs/12_live.md)
 - 前回の金曜日欠席の人
