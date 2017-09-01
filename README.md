@@ -19,6 +19,24 @@
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
+# 14回目
+## 話題
+- [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
+
+## 予定
+- 発表会の仕上げ
+  - 発表内容は以下の通り
+    - 作品名
+    - 作品の概要
+    - 操作方法
+    - ゲームのルール
+    - どこを自分で開発したか
+    - 利用したアセットやチュートリアルを、全て紹介
+  - 各内容については、 https://unityroom.com/ の作品を何本か確認して、どのように書けば分かりやすいかを研究して、工夫すること
+- 発表会
+  - 一人5分～10分程度
+  - 作品をネットドライブにコピーしておいて、教卓PCで実行して、解説
+
 # 13回目
 - [13回目の講義内容](docs/13_live.md)
 
@@ -36,7 +54,7 @@
 ## 補足
 - [前回、講義中に開けなかったPhaserのシーン管理ドキュメント](https://github.com/am1tanaka/phaser-javascript/blob/master/StateMachine.md)
 
-## 予定
+## 内容
 - [今回の画面のライブ配信](https://www.youtube.com/watch?v=ON5X-LRJBQs)
 - [Unityのよけとるの仕上げ](https://github.com/dat17/gp1/blob/master/docs/13-shiage.md)
 - 夏休み企画
