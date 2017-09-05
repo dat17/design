@@ -17,6 +17,7 @@
 # 14回目
 ## 話題
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
+- [ソフトウェアテスト SHIFT](http://www.shiftinc.jp/topics/game-saiyo/?m=tw002)
 
 ## 金曜日の確認
 - 発表会の仕上げの確認
