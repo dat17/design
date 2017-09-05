@@ -9,7 +9,7 @@
 - [LubuntuでPhaserのExampleを動かす手順](docs/06_phaser_boot.md)
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
-- [魔法魂](http://maoudamashii.jokersounds.com/)
+- [魔王魂](http://maoudamashii.jokersounds.com/)
 - [効果音ラボ](http://soundeffect-lab.info/)
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
