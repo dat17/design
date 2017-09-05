@@ -35,9 +35,14 @@
 - [ドット絵ツール piskel](http://www.piskelapp.com/)
 - [フリーフォント一覧 fontbear](https://fontbear.net/)
 - 企画を検討
+- [ドットインストール. Markdown記法](http://dotinstall.com/lessons/basic_markdown_v2)
+
+### 来週
 - JekyllによるWebページ作成 / Jekyllの使い方を調べながら学んでみよう
   - https://jekyllrb-ja.github.io/
-- 来週：夏休みに作ったものを、GitHub Pagesで公開する。できればJekyllで。無理そうならマークダウンやHTMLで
+- 夏休みに作ったものを、GitHub Pagesで公開する。できればJekyllで。無理そうならマークダウンで
+
+本講義の成績は、これまでの日常点と、夏休みの作品ページによって決める。
 
 # 13回目
 - [13回目の講義内容](docs/13_live.md)
