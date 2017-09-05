@@ -18,11 +18,8 @@
 ## 話題
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
 
-## 予定
-- MagicaVoxelの利用
-- ドット絵ツール
-- 企画を検討
-- 発表会の仕上げ
+## 金曜日の確認
+- 発表会の仕上げの確認
   - 発表内容は以下の通り
     - 作品名
     - 作品の概要
@@ -31,6 +28,15 @@
     - どこを自分で開発したか
     - 利用したアセットやチュートリアルを、全て紹介
   - 各内容については、 https://unityroom.com/ の作品を何本か確認して、どのように書けば分かりやすいかを研究して、工夫すること
+
+## 予定
+- [MagicaVoxel](https://ephtracy.github.io/)
+  - [だいし. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
+- [ドット絵ツール piskel](http://www.piskelapp.com/)
+- [フリーフォント一覧 fontbear](https://fontbear.net/)
+- 企画を検討
+- JekyllによるWebページ作成 / Jekyllの使い方を調べながら学んでみよう
+  - https://jekyllrb-ja.github.io/
 
 # 13回目
 - [13回目の講義内容](docs/13_live.md)
