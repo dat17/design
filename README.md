@@ -37,6 +37,7 @@
 - 企画を検討
 - JekyllによるWebページ作成 / Jekyllの使い方を調べながら学んでみよう
   - https://jekyllrb-ja.github.io/
+- 来週：夏休みに作ったものを、GitHub Pagesで公開する。できればJekyllで。無理そうならマークダウンやHTMLで
 
 # 13回目
 - [13回目の講義内容](docs/13_live.md)
