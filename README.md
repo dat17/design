@@ -31,14 +31,15 @@
   - 各内容については、 https://unityroom.com/ の作品を何本か確認して、どのように書けば分かりやすいかを研究して、工夫すること
 
 ## 予定
+- [ドットインストール. Markdown記法](http://dotinstall.com/lessons/basic_markdown_v2)
 - [MagicaVoxel](https://ephtracy.github.io/)
   - [だいし. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
 - [ドット絵ツール piskel](http://www.piskelapp.com/)
 - [フリーフォント一覧 fontbear](https://fontbear.net/)
-- 企画を検討
-- [ドットインストール. Markdown記法](http://dotinstall.com/lessons/basic_markdown_v2)
+- 発表準備
 
 ### 来週
+- 企画を検討
 - JekyllによるWebページ作成 / Jekyllの使い方を調べながら学んでみよう
   - https://jekyllrb-ja.github.io/
 - 夏休みに作ったものを、GitHub Pagesで公開する。できればJekyllで。無理そうならマークダウンで
