@@ -9,13 +9,8 @@
 - [LubuntuでPhaserのExampleを動かす手順](docs/06_phaser_boot.md)
 - [GitHubにUnityのプロジェクトを新規に作成する手順(VisualStudioも同様)](http://am1tanaka.hatenablog.com/entry/2016/02/05/102508)
 - [GitHub Desktopで.gitignoreが作られなかった場合の対処](http://am1tanaka.hatenablog.com/entry/2017/06/09/234448)
-
-# 金曜までに効果音とBGMを探す
-## 効果音
 - [魔法魂](http://maoudamashii.jokersounds.com/)
 - [効果音ラボ](http://soundeffect-lab.info/)
-
-## BGM
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
@@ -24,6 +19,9 @@
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
 
 ## 予定
+- MagicaVoxelの利用
+- ドット絵ツール
+- 企画を検討
 - 発表会の仕上げ
   - 発表内容は以下の通り
     - 作品名
@@ -33,9 +31,6 @@
     - どこを自分で開発したか
     - 利用したアセットやチュートリアルを、全て紹介
   - 各内容については、 https://unityroom.com/ の作品を何本か確認して、どのように書けば分かりやすいかを研究して、工夫すること
-- 発表会
-  - 一人5分～10分程度
-  - 作品をネットドライブにコピーしておいて、教卓PCで実行して、解説
 
 # 13回目
 - [13回目の講義内容](docs/13_live.md)
