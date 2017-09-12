@@ -16,7 +16,7 @@
 
 # 15回目
 ## 予定
-- [今日の動画]()
+- [今日の動画](https://www.youtube.com/watch?v=bqXG2PzKxWI)
 - JekyllによるWebページ作成 / Jekyllの使い方を調べながら学んでみよう
   - https://jekyllrb-ja.github.io/
 - 夏休みに作ったものを、GitHub Pagesで公開する。できればJekyllで。無理そうならマークダウンで
