@@ -14,8 +14,21 @@
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
-# 15回目
+# 1回目
 ## 予定
+- JekyllによるWebページ作成 / Jekyllの使い方を調べながら学んでみよう
+    - https://jekyllrb-ja.github.io/
+    - [ドットインストール Jekyll](http://dotinstall.com/lessons/basic_jekyll)
+        - Layoutの復習から
+    - Jekyllにはブログスタイルのポスト(Posts)と、静的ページスタイルのページ(Pages)がある。作品ページなどは、Pagesになる http://jekyllrb-ja.github.io/docs/pages/
+- 夏休みに作ったものを、GitHub Pagesで公開する。できればJekyllで。無理そうならマークダウンで
+- 企画を検討
+
+---
+
+
+# 15回目
+## 内容
 - [今日の動画](https://www.youtube.com/watch?v=bqXG2PzKxWI)
 - JekyllによるWebページ作成 / Jekyllの使い方を調べながら学んでみよう
   - https://jekyllrb-ja.github.io/
