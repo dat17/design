@@ -17,6 +17,7 @@
 # 後期1回目
 ## 予定
 - Unity Collaborateを試す
+  - https://www.youtube.com/watch?v=SU34aqY1SJI
 - チームの確認
 - 作品展用のプロジェクトを作成
 - プロジェクトをGitHubにアップロード
