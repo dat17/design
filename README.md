@@ -15,7 +15,7 @@
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 # 後期1回目
-## 予定
+## 内容
 - Unity Collaborateを試す
   - https://www.youtube.com/watch?v=SU34aqY1SJI
 - チームの確認
@@ -23,6 +23,22 @@
 - プロジェクトをGitHubにアップロード
 - GitHubで共有
 - Unityの場合は、Collaborateを設定
+
+## 開発チーム
+### A：横スクロールジャンプアクション
+- chiba
+- kamada
+- fukata
+- fukuma
+- hirano
+- yakou
+
+### B：視点切り替え＆攻撃アクション
+- ishiduki
+- vakulich
+- ozeki
+- komo
+- kataoka
 
 ---
 
