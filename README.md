@@ -14,12 +14,17 @@
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
+# 後期2回目
+## 予定
+- Unity Analysticsを試す
+- DATフェスタの作業
+
 # 後期1回目
 ## 内容
 - Unity Collaborateを試す
   - https://www.youtube.com/watch?v=SU34aqY1SJI
 - チームの確認
-- 作品展用のプロジェクトを作成
+- DATフェスタのプロジェクトを作成
 - プロジェクトをGitHubにアップロード
 - GitHubで共有
 - Unityの場合は、Collaborateを設定
