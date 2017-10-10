@@ -16,12 +16,24 @@
 
 # 後期2回目
 ## 予定
-- Blender
+- [Blender](https://blender.org)
   - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
   - [Blenderで簡単に人体ボーンを設定する](https://docs.unity3d.com/jp/540/Manual/BlenderAndRigify.html)
   - [だいし. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
 - DATフェスタの作業
   - 開発の流れをまとめる
+
+## Blenderインストール概要
+- [Blender](https://blender.org)公式ページを開く
+- [Download Blender 2.79]ボタンをクリック
+- zipがほしいので、[macOS, Linux, and other versions]をクリック
+- Windows 64bit .zip をクリック
+- ダウンロードが完了するのを待つ
+- ダウンロードしたファイルをクリックして開く
+- [スタート]メニュー>[ドキュメント]を選択して、ドキュメントフォルダーを開く
+- 先ほど開いたBlenderのフォルダーを、ドキュメントフォルダーにドラッグ＆ドロップして展開する
+
+以上で完了。ドキュメントフォルダーに展開したBlenderのフォルダー内の実行ファイルをダブルクリックしたら、Blenderが起動する。完了したらBlenderのWebページは閉じてよい。
 
 # 後期1回目
 ## 内容
