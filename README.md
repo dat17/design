@@ -16,8 +16,10 @@
 
 # 後期2回目
 ## 予定
-- Unity Analysticsを試す
-  - yoketoruなどでよいので、遊べる状態のプロジェクトに設定する
+- Blender
+  - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
+  - [Blenderで簡単に人体ボーンを設定する](https://docs.unity3d.com/jp/540/Manual/BlenderAndRigify.html)
+  - [だいし. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
 - DATフェスタの作業
   - 開発の流れをまとめる
 
