@@ -15,6 +15,9 @@
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 # 後期2回目
+## 今日の動画
+- [デスクトップ動画](https://www.youtube.com/watch?v=EAWOH_80KuQ)
+
 ## 予定
 - [Blender](https://blender.org)
   - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
