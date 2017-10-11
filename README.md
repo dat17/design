@@ -14,18 +14,21 @@
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
-# 後期2回目
-## 今日の動画
-- [デスクトップ動画](https://www.youtube.com/watch?v=EAWOH_80KuQ)
-
+# 後期3回目
 ## 予定
-- [Unityのライティング](https://docs.unity3d.com/jp/540/Manual/LightingInUnity.html)
 - [Blender](https://blender.org)
   - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
   - [Blenderで簡単に人体ボーンを設定する](https://docs.unity3d.com/jp/540/Manual/BlenderAndRigify.html)
   - [だいし. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
 - DATフェスタの作業
-  - 開発の流れをまとめる
+
+# 後期2回目
+## 今日の動画
+- [デスクトップ動画](https://www.youtube.com/watch?v=EAWOH_80KuQ)
+
+## 内容
+- [Unityのライティング](https://docs.unity3d.com/jp/540/Manual/LightingInUnity.html)
+- DATフェスタの作業
 
 ## Blenderインストール概要
 - [Blender](https://blender.org)公式ページを開く
