@@ -15,12 +15,17 @@
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 # 後期3回目
+## 今日の動画
+- [デスクトップ動画](https://www.youtube.com/watch?v=wyNPLO2bTfE)
+
 ## 予定
 - [Blender](https://blender.org)
   - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
   - [Blenderで簡単に人体ボーンを設定する](https://docs.unity3d.com/jp/540/Manual/BlenderAndRigify.html)
   - [だいし. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
 - DATフェスタの作業
+  - GitHub Issuesを使ったToDoリストつくり
+  - 質疑応答＆各自作業
 
 # 後期2回目
 ## 今日の動画
