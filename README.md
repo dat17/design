@@ -14,11 +14,23 @@
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
+# 後期4回目
+## 今日の動画
+- [デスクトップ動画]()
+
+## 予定
+- ゲーム管理の復習
+  - staticを使ったゲーム情報の管理方法を復習する
+  - スコアの管理
+  - ハイスコアの記録
+  - BGM/SEの管理
+- DATフェスタ進捗確認と作業
+
 # 後期3回目
 ## 今日の動画
 - [デスクトップ動画](https://www.youtube.com/watch?v=wyNPLO2bTfE)
 
-## 予定
+## 内容
 - [Blender](https://blender.org)
   - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
   - [Blenderで簡単に人体ボーンを設定する](https://docs.unity3d.com/jp/540/Manual/BlenderAndRigify.html)
