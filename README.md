@@ -20,6 +20,7 @@
 
 ## 予定
 - [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
+- [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 - ゲームプログラミング 前期11回目 ゲーム管理の復習
   - [状態遷移についてスライド](docs/unity-scene-1706.pptx)
   - [状態遷移を作る](docs/10-scene.md)
