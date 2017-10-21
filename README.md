@@ -19,6 +19,7 @@
 - [デスクトップ動画]()
 
 ## 予定
+- [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
 - ゲームプログラミング 前期11回目 ゲーム管理の復習
   - [状態遷移についてスライド](docs/unity-scene-1706.pptx)
   - [状態遷移を作る](docs/10-scene.md)
