@@ -17,7 +17,7 @@
 # 後期5回目(11/1)
 ## 予定
 - enumの利用。配列の順番に名前をつける
-- UIの発展的利用
+- UIその2
   - スクロールRect　https://unity3d.com/jp/learn/tutorials/modules/beginner/ui/ui-scroll-rect?playlist=45445
   -　スクロールバー https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-scrollbar
   - UIマスク https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-mask?playlist=45445
