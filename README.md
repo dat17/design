@@ -13,6 +13,8 @@
 - [効果音ラボ](http://soundeffect-lab.info/)
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
+- [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
+- [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期5回目(11/1)
 ## 予定
