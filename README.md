@@ -15,13 +15,13 @@
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 # 後期5回目(11/1)
-## 内容
+## 予定
 - enumの利用。配列の順番に名前をつける
 - UIの発展的利用
-  - 自動
+  - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
+  - リッチテキスト https://docs.unity3d.com/jp/540/Manual/StyledText.html
 - ハイスコアの記録と表示
   - PlayerPrefs
-  - UIのAuto Layout
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 - DATフェスタ進捗確認と作業
 
