@@ -18,8 +18,11 @@
 ## 予定
 - enumの利用。配列の順番に名前をつける
 - UIの発展的利用
-  - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
+  - スクロールRect　https://unity3d.com/jp/learn/tutorials/modules/beginner/ui/ui-scroll-rect?playlist=45445
+  -　スクロールバー https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-scrollbar
+  - UIマスク https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-mask?playlist=45445
   - リッチテキスト https://docs.unity3d.com/jp/540/Manual/StyledText.html
+  - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
 - ハイスコアの記録と表示
   - PlayerPrefs
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
