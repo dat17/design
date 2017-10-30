@@ -14,6 +14,15 @@
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
+# 後期5回目(11/1)
+## 内容
+- enumの利用。配列の順番に名前をつける
+- ハイスコアの記録と表示
+  - PlayerPrefs
+  - UIのAuto Layout
+- 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
+- DATフェスタ進捗確認と作業
+
 # 後期4回目
 ## 話題
 - [Unityインターハイ2017](https://inter-high.unity3d.jp/)
@@ -28,9 +37,6 @@
 - ゲームプログラミング 前期11回目 ゲーム管理の復習
   - [状態遷移についてスライド](docs/unity-scene-1706.pptx)
   - [状態遷移を作る](docs/10-scene.md)
-  - ハイスコアの記録と表示
-    - PlayerPrefs
-    - UIのAuto Layout
 - DATフェスタ進捗確認と作業
 
 # 後期3回目
