@@ -17,10 +17,15 @@
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期5回目(11/1)
+## 今日の動画
+- [デスクトップ動画]()
+
 ## 予定
 - enumの利用。配列の順番に名前をつける
 - オンラインランキングの実装
   - [naichi's lab. 【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](http://blog.naichilab.com/entry/webgl-simple-ranking)
+  - Rankingシーンはマルチシーンで読み込まれるもので、呼び出し元のシーンは別に作る
+  - ランキング欄は`naichilab`>`GSSARanking`>`Prefabs`>`RankingNode`の下の`No`と`Name`と`Score`
 - UIその2
   - スクロールRect　https://unity3d.com/jp/learn/tutorials/modules/beginner/ui/ui-scroll-rect?playlist=45445
   -　スクロールバー https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-scrollbar
@@ -34,9 +39,6 @@
 ## 話題
 - [Unityインターハイ2017](https://inter-high.unity3d.jp/)
 - [完成させることの価値についてのツイート](https://twitter.com/yyuta342/status/922336138206969856)
-
-## 今日の動画
-- [デスクトップ動画]()
 
 ## 内容
 - [前期13回目YOKETORUより 2Dゲームの効果音の鳴らし方](https://youtu.be/nZip5_dVoTI?t=3h11m3s)
