@@ -16,6 +16,13 @@
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
+# 後期6回目(11/15)
+## 話題
+- 11/13(月)～11/19(日)から[Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
+  - [naichiさんのツイート](https://twitter.com/naichilab/status/925978184700399616)
+- 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
+- 12/31(日)まで [ふりーむゲームコンテスト](https://www.freem.ne.jp/contest/fgc/13)
+
 # 後期5回目(11/1)
 ## 今日の動画
 - [デスクトップ動画]()
