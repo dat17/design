@@ -18,6 +18,7 @@
 
 # 後期6回目(11/15)
 ## 話題
+- [大学院などについてちょっと](https://twitter.com/manboumuseum/status/926205532964249600)
 - 11/13(月)～11/19(日)から[Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
   - [naichiさんのツイート](https://twitter.com/naichilab/status/925978184700399616)
 - 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
@@ -40,7 +41,7 @@
   - リッチテキスト https://docs.unity3d.com/jp/540/Manual/StyledText.html
   - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
-- DATフェスタ進捗確認と作業
+- Unity1週間ゲームジャム作業
 
 # 後期4回目
 ## 話題
