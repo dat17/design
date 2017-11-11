@@ -19,17 +19,14 @@
 # 後期6回目(11/15)
 ## 話題
 - [大学院などについてちょっと](https://twitter.com/manboumuseum/status/926205532964249600)
+- [DATフェスタを終えて](http://www.yasuhisa.com/could/article/four-monster-designers/)
 - 11/13(月)～11/19(日)から[Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
   - [naichiさんのツイート](https://twitter.com/naichilab/status/925978184700399616)
 - 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
 - 12/31(日)まで [ふりーむゲームコンテスト](https://www.freem.ne.jp/contest/fgc/13)
 
-# 後期5回目(11/1)
-## 今日の動画
-- [デスクトップ動画]()
-
 ## 予定
-- enumの利用。配列の順番に名前をつける
+- DATフェスタ作品紹介
 - オンラインランキングの実装
   - [naichi's lab. 【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](http://blog.naichilab.com/entry/webgl-simple-ranking)
   - Rankingシーンはマルチシーンで読み込まれるもので、呼び出し元のシーンは別に作る
@@ -41,7 +38,11 @@
   - リッチテキスト https://docs.unity3d.com/jp/540/Manual/StyledText.html
   - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
-- Unity1週間ゲームジャム作業
+- Unity1週間ゲームジャムの企画と作業
+
+# 後期5回目(11/1)
+## 内容
+- DATフェスタ準備
 
 # 後期4回目
 ## 話題
