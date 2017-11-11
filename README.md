@@ -19,7 +19,7 @@
 # 後期6回目(11/15)
 ## 話題
 - [大学院などについてちょっと](https://twitter.com/manboumuseum/status/926205532964249600)
-- [DATフェスタを終えて](http://www.yasuhisa.com/could/article/four-monster-designers/)
+- [長谷川恭久. 野放しは危険！デザイナーに潜む4つのモンスター](http://www.yasuhisa.com/could/article/four-monster-designers/)
 - 11/13(月)～11/19(日)から[Unity1週間ゲームジャム](https://unityroom.com/unity1weeks)
   - [naichiさんのツイート](https://twitter.com/naichilab/status/925978184700399616)
 - 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
