@@ -27,10 +27,16 @@
 
 ## 予定
 - DATフェスタ作品紹介
+- Unity1週間ゲームジャムの企画と作業
+  - 優先順位
+    - 発表 > 次に取り組みたいものを見つける >>>>>> 目立つこと > 面白いこと > 完成 > バグがないこと
+    - 法律を守るのは絶対条件。特に著作権
 - オンラインランキングの実装
   - [naichi's lab. 【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](http://blog.naichilab.com/entry/webgl-simple-ranking)
   - Rankingシーンはマルチシーンで読み込まれるもので、呼び出し元のシーンは別に作る
   - ランキング欄は`naichilab`>`GSSARanking`>`Prefabs`>`RankingNode`の下の`No`と`Name`と`Score`
+
+## 恐らく次回
 - UIその2
   - スクロールRect　https://unity3d.com/jp/learn/tutorials/modules/beginner/ui/ui-scroll-rect?playlist=45445
   -　スクロールバー https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-scrollbar
@@ -38,7 +44,6 @@
   - リッチテキスト https://docs.unity3d.com/jp/540/Manual/StyledText.html
   - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
-- Unity1週間ゲームジャムの企画と作業
 
 # 後期5回目(11/1)
 ## 内容
