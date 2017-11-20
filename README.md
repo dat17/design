@@ -35,6 +35,7 @@
 - 同様に評価
 
 ## 提出や発表に向けて
+- Asset Store紹介プログラムの紹介と設定 http://assetstore.info/eventandcontest/collaboration/unityroomand1weekgamejam/
 - GitHub Pagesにアカウントページを作成
 - 作成した作品の概要を記載
   - 作品名
