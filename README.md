@@ -36,6 +36,11 @@
 
 ## 提出や発表に向けて
 - Asset Store紹介プログラムの紹介と設定 http://assetstore.info/eventandcontest/collaboration/unityroomand1weekgamejam/
+- ブログをはじめよう
+  - Qiita https://qiita.com/
+    - 技術寄りな記事が多い印象。いいねなどのやりとりが活発
+  - はてなブログ http://d.hatena.ne.jp/
+    - 自由な内容。作品などが絡む場合、こちらでやっている開発者も少なからずいる
 - GitHub Pagesにアカウントページを作成
 - 作成した作品の概要を記載
   - 作品名
