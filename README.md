@@ -16,6 +16,31 @@
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
+# 後期7回目(11/22)
+- Unity1週間ゲームジャム　作品紹介
+  - 夏休み課題と同様にGoogleシートで採点
+  - 自分の欄には、次回に向けて取り組みたいことを記載
+- DATフェスタ作品紹介
+  - 同様に評価
+- 提出や発表に向けて
+  - GitHub Pagesにアカウントページを作成
+  - 作成した作品の概要を記載
+    - 作品名
+    - 制作期間
+    - グループ作品か、個人作品か
+    - グループ作品だった場合、担当
+    - 作品がWebで遊べたり、ダウンロードできる
+
+## 時間があれば
+- UIその2
+  - スクロールRect　https://unity3d.com/jp/learn/tutorials/modules/beginner/ui/ui-scroll-rect?playlist=45445
+  -　スクロールバー https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-scrollbar
+  - UIマスク https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-mask?playlist=45445
+  - リッチテキスト https://docs.unity3d.com/jp/540/Manual/StyledText.html
+  - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
+- 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
+
+
 # 後期6回目(11/15)
 ## 話題
 - [大学院などについてちょっと](https://twitter.com/manboumuseum/status/926205532964249600)
@@ -26,8 +51,7 @@
 - 11/1(水)～11/30(木) [game off 2017](https://itch.io/jam/game-off-2017)
 - 12/31(日)まで [ふりーむゲームコンテスト](https://www.freem.ne.jp/contest/fgc/13)
 
-## 予定
-- DATフェスタ作品紹介
+## 内容
 - [F_ Unityと改行コード](http://www.f-sp.com/entry/2017/04/06/023709)
 - Unity1週間ゲームジャムの企画と作業
   - 優先順位
@@ -37,15 +61,6 @@
   - [naichi's lab. 【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](http://blog.naichilab.com/entry/webgl-simple-ranking)
   - Rankingシーンはマルチシーンで読み込まれるもので、呼び出し元のシーンは別に作る
   - ランキング欄は`naichilab`>`GSSARanking`>`Prefabs`>`RankingNode`の下の`No`と`Name`と`Score`
-
-## 恐らく次回
-- UIその2
-  - スクロールRect　https://unity3d.com/jp/learn/tutorials/modules/beginner/ui/ui-scroll-rect?playlist=45445
-  -　スクロールバー https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-scrollbar
-  - UIマスク https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-mask?playlist=45445
-  - リッチテキスト https://docs.unity3d.com/jp/540/Manual/StyledText.html
-  - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
-- 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 
 # 後期5回目(11/1)
 ## 内容
