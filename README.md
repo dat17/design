@@ -17,6 +17,10 @@
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期7回目(11/22)
+## 話題
+- ブログ例
+  - [ぐーるらいふ. 【Unity】第六回 unity1week「space」参加作品「スペースキューブ」の開発](http://ghoul-life.hatenablog.com/entry/2017/11/21/145230)
+
 ## Unity1週間ゲームジャム　作品紹介
 - 夏休み課題と同様にGoogleシートで採点
 - 自分の欄には、次回に向けて取り組みたいことを記載
