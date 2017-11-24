@@ -17,6 +17,9 @@
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期8回目(11/29)
+- UIその2
+  - TextMesh Proの利用
+  - 日本語フォントを使うには
 - GitHub Pagesにアカウントページを作成
 - 作成した作品の概要を記載
   - 作品名
@@ -28,14 +31,7 @@
   - 連絡先
 
 ## 時間があれば
-- UIその2
-  - スクロールRect　https://unity3d.com/jp/learn/tutorials/modules/beginner/ui/ui-scroll-rect?playlist=45445
-  - スクロールバー https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-scrollbar
-  - UIマスク https://unity3d.com/jp/learn/tutorials/topics/user-interface-ui/ui-mask?playlist=45445
-  - リッチテキスト https://docs.unity3d.com/jp/540/Manual/StyledText.html
-  - 自動レイアウト https://docs.unity3d.com/jp/540/Manual/script-VerticalLayoutGroup.html
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
-
 
 # 後期7回目(11/22)
 ## 話題
