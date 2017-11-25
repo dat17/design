@@ -23,7 +23,7 @@
 ## 予定
 - UIその2 TextMesh Pro
   - [山村　達彦. カッコいい文字を使おう、そうText meshならね](https://www.slideshare.net/UnityTechnologiesJapan/unity-2017text-mesh?next_slideshow=1)
-  - [UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
+  - [thorikawa. UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
   - [Unityインターハイブログ. TextMesh Pro（テキストメッシュプロ）でテキストUIをカッコ良くしよう](http://inter-high-blog.unity3d.jp/2017/08/18/textmeshpro/)
   - [lycoris102 UnityTextMeshProで生成したテキストをDOTween(Pro)を使って動かす](https://qiita.com/lycoris102/items/d50fdb510c75dedf4f51)
 - Animationを使ったテキストやスプライトの変形、半透明演出
