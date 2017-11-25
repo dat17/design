@@ -17,9 +17,11 @@
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期8回目(11/29)
-- UIその2
-  - TextMesh Proの利用
-  - 日本語フォントを使うには
+- UIその2 TextMesh Pro
+  - [山村　達彦. カッコいい文字を使おう、そうText meshならね](https://www.slideshare.net/UnityTechnologiesJapan/unity-2017text-mesh?next_slideshow=1)
+  - [UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
+  - [Unityインターハイブログ. TextMesh Pro（テキストメッシュプロ）でテキストUIをカッコ良くしよう](http://inter-high-blog.unity3d.jp/2017/08/18/textmeshpro/)
+  - [lycoris102 UnityTextMeshProで生成したテキストをDOTween(Pro)を使って動かす](https://qiita.com/lycoris102/items/d50fdb510c75dedf4f51)
 - Animationを使ったテキストやスプライトの変形、半透明演出
 - GitHub Pagesにアカウントページを作成
 - 作成した作品の概要を記載
