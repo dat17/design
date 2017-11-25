@@ -21,7 +21,7 @@
 - [Seamless. ウィスコンシン大学ら、粒子法の一つであるGIMP法を用いて弾塑性モデルをシミュレートする提案を論文にて発表](http://shiropen.com/2017/11/25/29858)
 
 ## 予定
-- UIその2 TextMesh Pro
+- UIその2 TextMesh Pro(作業メモ https://github.com/dat17/design/wiki/TextMesh-Pro%E3%81%AE%E4%BD%9C%E6%A5%AD%E3%83%A1%E3%83%A2 )
   - [山村　達彦. カッコいい文字を使おう、そうText meshならね](https://www.slideshare.net/UnityTechnologiesJapan/unity-2017text-mesh?next_slideshow=1)
   - [thorikawa. UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
   - [Unityインターハイブログ. TextMesh Pro（テキストメッシュプロ）でテキストUIをカッコ良くしよう](http://inter-high-blog.unity3d.jp/2017/08/18/textmeshpro/)
