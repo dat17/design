@@ -38,6 +38,7 @@
   - 連絡先
 
 ## 時間があれば
+- [araitakahiro. Unity2017のTimelineをやってみた](http://blog.applibot.co.jp/blog/2017/06/16/unity2017timeline/)
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 
 # 後期7回目(11/22)
