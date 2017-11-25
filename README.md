@@ -17,6 +17,10 @@
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期8回目(11/29)
+## 話題
+- [Seamless. ウィスコンシン大学ら、粒子法の一つであるGIMP法を用いて弾塑性モデルをシミュレートする提案を論文にて発表](http://shiropen.com/2017/11/25/29858)
+
+## 予定
 - UIその2 TextMesh Pro
   - [山村　達彦. カッコいい文字を使おう、そうText meshならね](https://www.slideshare.net/UnityTechnologiesJapan/unity-2017text-mesh?next_slideshow=1)
   - [UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
