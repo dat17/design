@@ -21,6 +21,9 @@
 - [Seamless. ウィスコンシン大学ら、粒子法の一つであるGIMP法を用いて弾塑性モデルをシミュレートする提案を論文にて発表](http://shiropen.com/2017/11/25/29858)
 - [naichi. UnityRoomのWebGLからツイートする](https://github.com/naichilab/unityroom-tweet)
 - [Unityインターハイ. 入選作品が遊べるように](https://inter-high.unity3d.jp/)
+- [12/1～12/4 期間限定でpaizaのポートフォリオ制作講座が無料](https://paiza.jp/works/career/primer)
+- [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
+- [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
 
 ## 予定
 - UIその2 TextMesh Pro(作業メモ https://github.com/dat17/design/wiki/TextMesh-Pro%E3%81%AE%E4%BD%9C%E6%A5%AD%E3%83%A1%E3%83%A2 )
