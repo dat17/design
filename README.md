@@ -27,6 +27,9 @@
 - [1/10以降、Unity CollaboとCloud Buildに制限がつく](https://unity3d.com/jp/teams?_ga=2.120795848.1379759967.1511783488-485331560.1494210088)
 - [Schoo. UnityのuGUIで作る2Dゲーム 1/9(火)から](https://schoo.jp/class/4558)
 
+## 今日のデスクトップ動画
+- https://www.youtube.com/watch?v=iqwLw6NAMM0
+
 ## 予定
 - UIその2 TextMesh Pro(作業メモ https://github.com/dat17/design/wiki/TextMesh-Pro%E3%81%AE%E4%BD%9C%E6%A5%AD%E3%83%A1%E3%83%A2 )
   - [山村　達彦. カッコいい文字を使おう、そうText meshならね](https://www.slideshare.net/UnityTechnologiesJapan/unity-2017text-mesh?next_slideshow=1)
