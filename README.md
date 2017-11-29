@@ -26,7 +26,8 @@
 - [Schoo. UnityのuGUIで作る2Dゲーム 1/9(火)から](https://schoo.jp/class/4558)
 
 ## 今日のデスクトップ動画
-- https://www.youtube.com/watch?v=iqwLw6NAMM0
+- [1時限目 TextMesh Pro]https://www.youtube.com/watch?v=iqwLw6NAMM0
+- [2時限目　アニメーション](https://www.youtube.com/watch?v=JyfN5NHqlhw)
 
 ## 予定
 - UIその2 TextMesh Pro(作業メモ https://github.com/dat17/design/wiki/TextMesh-Pro%E3%81%AE%E4%BD%9C%E6%A5%AD%E3%83%A1%E3%83%A2 )
