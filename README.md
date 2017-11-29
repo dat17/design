@@ -34,6 +34,7 @@
   - [thorikawa. UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
   - [Unityインターハイブログ. TextMesh Pro（テキストメッシュプロ）でテキストUIをカッコ良くしよう](http://inter-high-blog.unity3d.jp/2017/08/18/textmeshpro/)
   - [lycoris102 UnityTextMeshProで生成したテキストをDOTween(Pro)を使って動かす](https://qiita.com/lycoris102/items/d50fdb510c75dedf4f51)
+  - [テラシュールブログ. Fontのマテリアルの作成方法など](http://tsubakit1.hateblo.jp/entry/2017/09/19/233349)
 - Animationを使ったテキストやスプライトの変形、半透明演出
   - http://am1tanaka.hatenablog.com/entry/2017/11/25/203032
 - GitHub Pagesにアカウントページを作成
