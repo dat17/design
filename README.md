@@ -16,6 +16,20 @@
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
+# 後期9回目(12/6)
+## 予定
+- [araitakahiro. Unity2017のTimelineをやってみた](http://blog.applibot.co.jp/blog/2017/06/16/unity2017timeline/)
+- 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
+- GitHub Pagesにアカウントページを作成
+- 作成した作品の概要を記載
+  - 作品名
+  - 作品のスクリーンショット
+  - 制作期間
+  - グループ作品か、個人作品か
+  - グループ作品だった場合、担当
+  - 作品がWebで遊べたり、ダウンロードできる場合は、作品へのリンク
+  - 連絡先
+
 # 後期8回目(11/29)
 ## 話題
 - [Seamless. ウィスコンシン大学ら、粒子法の一つであるGIMP法を用いて弾塑性モデルをシミュレートする提案を論文にて発表](http://shiropen.com/2017/11/25/29858)
@@ -29,7 +43,7 @@
 - [1時限目 TextMesh Pro]https://www.youtube.com/watch?v=iqwLw6NAMM0
 - [2時限目　アニメーション](https://www.youtube.com/watch?v=JyfN5NHqlhw)
 
-## 予定
+## 内容
 - UIその2 TextMesh Pro(作業メモ https://github.com/dat17/design/wiki/TextMesh-Pro%E3%81%AE%E4%BD%9C%E6%A5%AD%E3%83%A1%E3%83%A2 )
   - [山村　達彦. カッコいい文字を使おう、そうText meshならね](https://www.slideshare.net/UnityTechnologiesJapan/unity-2017text-mesh?next_slideshow=1)
   - [thorikawa. UnityのText Mesh Proアセットで日本語を使うときの手順](https://qiita.com/thorikawa/items/03b65b75fa9461b53efd)
@@ -38,19 +52,6 @@
   - [テラシュールブログ. Fontのマテリアルの作成方法など](http://tsubakit1.hateblo.jp/entry/2017/09/19/233349)
 - Animationを使ったテキストやスプライトの変形、半透明演出
   - http://am1tanaka.hatenablog.com/entry/2017/11/25/203032
-- GitHub Pagesにアカウントページを作成
-- 作成した作品の概要を記載
-  - 作品名
-  - 作品のスクリーンショット
-  - 制作期間
-  - グループ作品か、個人作品か
-  - グループ作品だった場合、担当
-  - 作品がWebで遊べたり、ダウンロードできる場合は、作品へのリンク
-  - 連絡先
-
-## 時間があれば
-- [araitakahiro. Unity2017のTimelineをやってみた](http://blog.applibot.co.jp/blog/2017/06/16/unity2017timeline/)
-- 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 
 # 後期7回目(11/22)
 ## 話題
