@@ -25,6 +25,14 @@
 ## 動画
 
 ## 予定
+- Timeline
+  - 新規にプロジェクトを作成
+  - https://am1.jp/unity/unity-chan-timeline-rensyu.unitypackage をダウンロードしてインポート(エラーがでるが気にしない)
+  - Readme.txtに従って、UnityちゃんのモデルとParticleSystemsをインポート
+  - UnityChanActionフォルダーをProjectビューから削除して、同アセットをインポートしなおす
+  - https://docs.unity3d.com/jp/current/Manual/TimelineSection.html を読みながら動作を確認する
+
+## 参考
 - [araitakahiro. Unity2017のTimelineをやってみた](http://blog.applibot.co.jp/blog/2017/06/16/unity2017timeline/)
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 - GitHub Pagesにアカウントページを作成
