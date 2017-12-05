@@ -27,9 +27,10 @@
 ## 予定
 - Timeline
   - 新規にプロジェクトを作成
-  - https://am1.jp/unity/unity-chan-timeline-rensyu.unitypackage をダウンロードしてインポート(エラーがでるが気にしない)
+  - https://am1.jp/unity/unity-chan-timeline-rensyu.unitypackage をダウンロード
+  - ダウンロードした`unity-chan-timeline-rensyu.unitypackage`からReadme.txtのみインポート
   - Readme.txtに従って、UnityちゃんのモデルとParticleSystemsをインポート
-  - UnityChanActionフォルダーをProjectビューから削除して、同アセットをインポートしなおす
+  - UnityChanActionフォルダーをProjectビューから削除して、`unity-chan-timeline-rensyu.unitypackage`をインポートしなおす
   - https://docs.unity3d.com/jp/current/Manual/TimelineSection.html を読みながら動作を確認する
 
 ## 参考
