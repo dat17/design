@@ -23,6 +23,7 @@
   - 「お二人が考える「いいエンジニア」とは」の部分を確認のこと
 
 ## 動画
+- https://www.youtube.com/watch?v=QvXtlWNxACI
 
 ## 予定
 - Timeline
