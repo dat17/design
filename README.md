@@ -16,6 +16,24 @@
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
+# 後期10回目(12/13)
+## 正月休み課題：ポートフォリオページを完成させる
+- [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)を参考に、HTML5+Bootstrapでポートフォリオページを作成
+- [12/1の講義動画](https://www.youtube.com/watch?v=L543qNQg_fE)を参考に、作成したページをGitHub Pagesのアカウントページとして公開する
+- Works(活動紹介)には、これまで作成した作品について以下のようなものを用意して簡潔にまとめる
+  - 作品名
+  - 作品のスクリーンショット
+  - 制作期間
+  - グループ作品か、個人作品か
+  - グループ作品だった場合、担当
+  - 作品がWebで遊べたり、ダウンロードできる場合は、作品へのリンク
+- 就職活動に使えるようにすることを意識して作成する
+- 連絡先を書く。ただし、メールアドレスなどをそのまま書くとスパムの餌食になる可能性があるので、`@`を画像にしたり、カタカナで`アットマーク`と書くなどして、メールアドレスをそのまま書かないよう工夫する
+- 参考： 千代田まどか. ちょまど帳 https://chomado.com/
+
+## 予定
+- PHP?Java?MySQL?少しバックエンドを体験したい
+
 # 後期9回目(12/6)
 ## 話題
 - [@higopage. Unityアプリを世界にどんどんリリースするためにやったこと](https://qiita.com/higopage/items/31fe383e371148207d71)
@@ -25,7 +43,7 @@
 ## 動画
 - https://www.youtube.com/watch?v=QvXtlWNxACI
 
-## 予定
+## 内容
 - Timeline
   - 新規にプロジェクトを作成
   - https://am1.jp/unity/unity-chan-timeline-rensyu.unitypackage をダウンロード
@@ -35,20 +53,7 @@
   - https://docs.unity3d.com/jp/current/Manual/TimelineSection.html を読みながら動作を確認する
 - [araitakahiro. Unity2017のTimelineをやってみた](http://blog.applibot.co.jp/blog/2017/06/16/unity2017timeline/)
   - Control TrackとPlayable Trackはこちらの記事で確認
-
-## 参考
 - 参考： [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
-- GitHub Pagesにアカウントページを作成
-- 作成した作品の概要を記載
-  - 作品名
-  - 作品のスクリーンショット
-  - 制作期間
-  - グループ作品か、個人作品か
-  - グループ作品だった場合、担当
-  - 作品がWebで遊べたり、ダウンロードできる場合は、作品へのリンク
-  - 連絡先
-
-## 時間が余ったら
 - Doodleをやってみよう https://g.co/doodle/h7b5xj?ds=cl
 
 # 後期8回目(11/29)
