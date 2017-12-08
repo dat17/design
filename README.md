@@ -17,6 +17,9 @@
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期10回目(12/13)
+## 話題
+- [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
+
 ## 正月休み課題：ポートフォリオページを完成させる
 - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)を参考に、HTML5+Bootstrapでポートフォリオページを作成
 - [12/1の講義動画](https://www.youtube.com/watch?v=L543qNQg_fE)を参考に、作成したページをGitHub Pagesのアカウントページとして公開する
@@ -32,7 +35,7 @@
 - 参考： 千代田まどか. ちょまど帳 https://chomado.com/
 
 ## 予定
-- PHP?Java?MySQL?少しバックエンドを体験したい
+- PHP?Java?MySQL?React?少しバックエンドを体験したい
 
 # 後期9回目(12/6)
 ## 話題
