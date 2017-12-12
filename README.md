@@ -36,7 +36,7 @@
 - 参考： 千代田まどか. ちょまど帳 https://chomado.com/
 
 ## 予定
-- React https://reactjs.org
+- Reactを使ってみる https://github.com/tanakaedu/react-reading/blob/master/README.md
 
 # 後期9回目(12/6)
 ## 話題
