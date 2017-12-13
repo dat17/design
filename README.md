@@ -16,11 +16,11 @@
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
-# 後期10回目(12/13)
-## 話題
-- [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
-- [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
-- [Unity1週間ゲームジャム Meetup in Tokyo #1](https://connpass.com/event/74062/)
+# 後期11回目
+## 予定
+- React続き
+  - 前回、VirtualBoxで環境をインストールして、 react-rensyu のフォルダーを作成するところまで進めた
+- 正月休み作品作業
 
 ## 正月休み課題：ポートフォリオページを完成させる
 - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)を参考に、HTML5+Bootstrapでポートフォリオページを作成
@@ -36,7 +36,13 @@
 - 連絡先を書く。ただし、メールアドレスなどをそのまま書くとスパムの餌食になる可能性があるので、`@`を画像にしたり、カタカナで`アットマーク`と書くなどして、メールアドレスをそのまま書かないよう工夫する
 - 参考： 千代田まどか. ちょまど帳 https://chomado.com/
 
-## 予定
+# 後期10回目(12/13)
+## 話題
+- [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
+- [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
+- [Unity1週間ゲームジャム Meetup in Tokyo #1](https://connpass.com/event/74062/)
+
+## 内容
 - 1コマ目 Reactを使ってみる https://github.com/tanakaedu/react-reading/blob/master/README.md
 - 2コマ目 正月休み作品などの開発、質問
 
