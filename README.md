@@ -20,6 +20,7 @@
 ## 話題
 - [お題にチャレンジ！Vol.4： クリスマスのスクリーンショット](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
 - [paiza. 【3週連続火曜】24時間限定出題!テストケース開示問題](https://paiza.jp/one_day_campaigns/detail)
+- [Unity1週間ゲームジャム Meetup in Tokyo #1](https://connpass.com/event/74062/)
 
 ## 正月休み課題：ポートフォリオページを完成させる
 - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)を参考に、HTML5+Bootstrapでポートフォリオページを作成
