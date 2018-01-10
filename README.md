@@ -16,6 +16,20 @@
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
+# 後期13回目
+## 話題
+
+## 予定
+- DATフェスタ作品を公開する
+- サーバーサイドプログラミング PHP
+  - 仕事が多いPHP+CakePHPを使ってみます
+    - 更に興味がある人は、Ruby on Railsも自習してみてください。Rubyの方が進んでます
+  - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
+  - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
+  - [paiza. DB/SQL入門編 (全2レッスン) ](https://paiza.jp/works/sql/primer)
+  - [paiza. PHP基礎編](https://paiza.jp/works/php/basicnew)
+  - [杏z 学習帳. [Heroku]CakePHP3でつくって公開してみたのでその手順メモ](https://anz-note.tumblr.com/post/147874119361/herokucakephp3%E3%81%A7%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E6%89%8B%E9%A0%86%E3%83%A1%E3%83%A2)
+
 # 後期12回目
 ## 話題
 - [Unity AssetStoreまとめ. 【新春イベント】あなたの欲しいアセットが無料でゲットできるかも!? アセットバウチャー総額『5万円＋α』プレゼント](http://assetsale.hateblo.jp/entry/2018/01/01/090554)
