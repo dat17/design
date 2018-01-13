@@ -18,6 +18,8 @@
 
 # 後期13回目
 ## 話題
+- Unity1週間ゲームジャム meet up 行ってきました
+  - https://twitter.com/3kyo_game/status/952180825914621952
 
 ## 予定
 - 正月課題の発表
