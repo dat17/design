@@ -43,6 +43,22 @@
   - [杏z 学習帳. [Heroku]CakePHP3でつくって公開してみたのでその手順メモ](https://anz-note.tumblr.com/post/147874119361/herokucakephp3%E3%81%A7%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E6%89%8B%E9%A0%86%E3%83%A1%E3%83%A2)
 - DATフェスタ作品の公開作業
 
+### Herokuの類似サービス
+- [AWS Elastic Beanstalk](https://aws.amazon.com/jp/elasticbeanstalk/)
+  - Amazonのクラウドサービス
+  - 登録にクレジットカードが必要だったので見送り
+- [Google Cloud Platform](https://cloud.google.com/?hl=ja)
+  - Googleの同種サービス
+  - 先進的な半面、他とは異なる部分があったので見送り
+- [AppDrag](https://appdrag.com/)
+  - ブログなどもホストできるサービス
+  - JavaScriptのみだったようなので見送り
+- [Paiza Cloud](https://paiza.cloud/ja/)
+  - paizaが始めたクラウドサービス
+  - 無料枠だとサービスの公開ができなかったので見送り
+
+AWSやGoogle Cloudは企業でよく使われているサービスなので、一通り理解が進んだら自発的に学習するとよいでしょう。AppDragやPaiza Cloudは非常に手軽なので、用途が合えば強力な選択肢になるでしょう。
+
 # 後期12回目
 ## 話題
 - [Unity AssetStoreまとめ. 【新春イベント】あなたの欲しいアセットが無料でゲットできるかも!? アセットバウチャー総額『5万円＋α』プレゼント](http://assetsale.hateblo.jp/entry/2018/01/01/090554)
