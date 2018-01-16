@@ -41,7 +41,7 @@
 - DATフェスタ作品の公開作業
 
 ### Heroku+Rubyは保留
-- Heroku+Ruby編・・・構築環境が多いので、Herokuは個別にやります
+- Heroku+Ruby編・・・Herokuでアドオンを利用するのにクレジットカードが必要だった。それならAWSでよいかも知れない
   - Rubyのメリット： 仕事が多い / 開発速度が速い / いま風
   - [ドットインストール. Heroku入門](https://dotinstall.com/lessons/basic_heroku)
 
