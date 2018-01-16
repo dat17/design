@@ -30,9 +30,6 @@
 
 ## 予定
 - 正月課題の発表
-- サーバーサイドプログラミング Heroku+Ruby編
-  - Rubyのメリット： 仕事が多い / 開発速度が速い / いま風
-  - [ドットインストール. Heroku入門](https://dotinstall.com/lessons/basic_heroku)
 - サーバーサイドプログラミング PHP編
   - PHPのメリット： 仕事が多い / 安いサーバーで使えることが多い / Wordpressをいじれる
   - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
@@ -42,6 +39,12 @@
   - [paiza. PHP基礎編](https://paiza.jp/works/php/basicnew)
   - [杏z 学習帳. [Heroku]CakePHP3でつくって公開してみたのでその手順メモ](https://anz-note.tumblr.com/post/147874119361/herokucakephp3%E3%81%A7%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E6%89%8B%E9%A0%86%E3%83%A1%E3%83%A2)
 - DATフェスタ作品の公開作業
+
+### Heroku+Rubyは保留
+- Heroku+Ruby編・・・構築環境が多いので、Herokuは個別にやります
+  - Rubyのメリット： 仕事が多い / 開発速度が速い / いま風
+  - [ドットインストール. Heroku入門](https://dotinstall.com/lessons/basic_heroku)
+
 
 ### Herokuの類似サービス
 - [AWS Elastic Beanstalk](https://aws.amazon.com/jp/elasticbeanstalk/)
