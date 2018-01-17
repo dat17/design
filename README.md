@@ -16,24 +16,9 @@
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
-# 後期13回目
-## 話題
-- Unity1週間ゲームジャム meet up 行ってきました
-  - [mikyoさん](https://twitter.com/3kyo_game/status/952180825914621952)
-  - [アッキーさん](https://m3-soft.com/2018/01/14/644/)
-- [Global Game Jam 2018](http://ggj.igda.jp/)
-  - `ggj`や`グローバルゲームジャム`で検索すると参加報告や初心者向けのブログなどが見つかるので、参照してみてください
-  - 面白そうだと思ったら参加してください。確実に就職の役に立ちます
-  - プログラマーが多いようなので、企画や資料作成、スライド作成などの手伝いとして入るという手があります
-  - 最初からチームを組んで参加してもよいでしょう（新しい経験をするという点ではフリーで参加する方がよい経験にはなると思います）
-  - 事前に色々準備が必要なので、予め情報をチェックして、PCなどの準備をしておきましょう
-- 次回Unity1週間ゲームジャムは2/19(月)から
-
+# 後期14回目
 ## 予定
-- 正月課題の発表
 - サーバーサイドプログラミング PHP編
-  - PHPのメリット： 仕事が多い / 安いサーバーで使えることが多い / Wordpressをいじれる
-  - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
   - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
     - [MySQLのインストール](https://dev.mysql.com/doc/refman/5.7/en/binary-installation.html)
   - [ドットインストール. CakePHP3入門](https://dotinstall.com/lessons/basic_cakephp_v2)
@@ -46,7 +31,6 @@
 - Heroku+Ruby編・・・Herokuでアドオンを利用するのにクレジットカードが必要だった。それならAWSでよいかも知れない
   - Rubyのメリット： 仕事が多い / 開発速度が速い / いま風
   - [ドットインストール. Heroku入門](https://dotinstall.com/lessons/basic_heroku)
-
 
 ### Herokuの類似サービス
 - [AWS Elastic Beanstalk](https://aws.amazon.com/jp/elasticbeanstalk/)
@@ -63,6 +47,26 @@
   - 無料枠だとサービスの公開ができなかったので見送り
 
 AWSやGoogle Cloudは企業でよく使われているサービスなので、一通り理解が進んだら自発的に学習するとよいでしょう。AppDragやPaiza Cloudは非常に手軽なので、用途が合えば強力な選択肢になるでしょう。
+
+# 後期13回目
+## 話題
+- Unity1週間ゲームジャム meet up 行ってきました
+  - [mikyoさん](https://twitter.com/3kyo_game/status/952180825914621952)
+  - [アッキーさん](https://m3-soft.com/2018/01/14/644/)
+- [Global Game Jam 2018](http://ggj.igda.jp/)
+  - `ggj`や`グローバルゲームジャム`で検索すると参加報告や初心者向けのブログなどが見つかるので、参照してみてください
+  - 面白そうだと思ったら参加してください。確実に就職の役に立ちます
+  - プログラマーが多いようなので、企画や資料作成、スライド作成などの手伝いとして入るという手があります
+  - 最初からチームを組んで参加してもよいでしょう（新しい経験をするという点ではフリーで参加する方がよい経験にはなると思います）
+  - 事前に色々準備が必要なので、予め情報をチェックして、PCなどの準備をしておきましょう
+- 次回Unity1週間ゲームジャムは2/19(月)から
+
+## 内容
+- 正月課題の発表
+- サーバーサイドプログラミング PHP編
+  - PHPのメリット： 仕事が多い / 安いサーバーで使えることが多い / Wordpressをいじれる
+  - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
+    - https://paiza.jp/works/php/primerfemale/beginner-php1-female/2306 から
 
 # 後期12回目
 ## 話題
