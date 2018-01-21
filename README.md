@@ -21,6 +21,7 @@
 - サーバーサイドプログラミング PHP編
   - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
     - [MySQLのインストール](https://dev.mysql.com/doc/refman/5.7/en/binary-installation.html)
+    - [phpMyAdminのインストール](https://www.dbonline.jp/phpmyadmin/)
   - [ドットインストール. CakePHP3入門](https://dotinstall.com/lessons/basic_cakephp_v2)
   - [paiza. DB/SQL入門編 (全2レッスン) ](https://paiza.jp/works/sql/primer)
   - [paiza. PHP基礎編](https://paiza.jp/works/php/basicnew)
