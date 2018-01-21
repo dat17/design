@@ -17,6 +17,10 @@
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期14回目
+## 話題
+- [paizaラーニング. SQL入門編2: SQLを仕事に使おう](https://paiza.jp/works/sql/primer/beginner-sql2)
+  - 無料で公開されていて非常にオススメ。とりあえず眺めておくとよい
+
 ## 予定
 - サーバーサイドプログラミング PHP編
   - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
