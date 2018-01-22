@@ -23,6 +23,8 @@
 
 ## 予定
 - サーバーサイドプログラミング PHP編
+  - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
+    - https://paiza.jp/works/php/primerfemale/beginner-php1-female/2306 から
   - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
     - [MySQLのインストール](https://dev.mysql.com/doc/refman/5.7/en/binary-installation.html)
     - [phpMyAdminのインストール](https://www.dbonline.jp/phpmyadmin/)
@@ -82,7 +84,7 @@ AWSやGoogle Cloudは企業でよく使われているサービスなので、�
   - 名刺と作品を持っていくと何かあるかも(ないかも)
 - [田中作品 フライングカモ](https://unityroom.com/games/flying-kamo)
 
-## 予定
+## 内容
 - ポートフォリオページの完成
 - 金曜日発表
 
