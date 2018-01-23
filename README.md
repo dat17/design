@@ -18,6 +18,7 @@
 
 # 後期14回目
 ## 話題
+- [2/10(土)15:00【参加費無料】実例からみるHoloLensアプリ開発とWindows Mixed Reality／主催：VRプロフェッショナルアカデミー@品川](https://peatix.com/event/343639)
 - [paizaラーニング. SQL入門編2: SQLを仕事に使おう](https://paiza.jp/works/sql/primer/beginner-sql2)
   - 無料で公開されていて非常にオススメ。とりあえず眺めておくとよい
 
