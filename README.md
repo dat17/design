@@ -23,6 +23,8 @@
   - 無料で公開されていて非常にオススメ。とりあえず眺めておくとよい
 
 ## 予定
+- 仮想PCのOSカーネルを掃除しておこう
+  - http://munibus.hatenablog.com/entry/2014/10/10/060143
 - サーバーサイドプログラミング PHP編
   - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
     - https://paiza.jp/works/php/primerfemale/beginner-php1-female/2306 から
