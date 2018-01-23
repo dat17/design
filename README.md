@@ -25,6 +25,7 @@
 - サーバーサイドプログラミング PHP編
   - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
     - https://paiza.jp/works/php/primerfemale/beginner-php1-female/2306 から
+  - [LubuntuにMySQLをインストール](http://am1tanaka.hatenablog.com/entry/2018/01/23/191938)
   - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
     - [MySQLのインストール](https://dev.mysql.com/doc/refman/5.7/en/binary-installation.html)
     - [phpMyAdminのインストール](https://www.dbonline.jp/phpmyadmin/)
