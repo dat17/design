@@ -22,6 +22,7 @@
 - [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https:/cocoon.io)
 
 ## 予定
+- アルゴリズムを知る PHP基礎編:長テーブルのうなぎの問題 https://paiza.jp/works/php/basicnew/unagi-new/2201
 - サーバーサイドプログラミング PHP編
   - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
     - https://paiza.jp/works/php/primerfemale/beginner-php4-female/2331 配列の復習から
