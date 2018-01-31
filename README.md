@@ -20,6 +20,7 @@
 ## 話題
 - [Esoteric Software. Spine](http://ja.esotericsoftware.com/)
 - [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https://cocoon.io)
+- [Amazon. クラウドで開発するサービス Cloud9](https://aws.amazon.com/jp/cloud9/)
 
 ## 予定
 - アルゴリズムを知る PHP基礎編:長テーブルのうなぎの問題 https://paiza.jp/works/php/basicnew/unagi-new/2201
