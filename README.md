@@ -19,7 +19,7 @@
 # 後期15回目
 ## 話題
 - [Esoteric Software. Spine](http://ja.esotericsoftware.com/)
-- [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https:/cocoon.io)
+- [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https://cocoon.io)
 
 ## 予定
 - アルゴリズムを知る PHP基礎編:長テーブルのうなぎの問題 https://paiza.jp/works/php/basicnew/unagi-new/2201
