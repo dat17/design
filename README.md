@@ -16,25 +16,28 @@
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
+# 後期16回目-最終回
+## 予定
+- サーバーサイドプログラミング PHP編
+  - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
+    - https://paiza.jp/works/webapplicationlamp/primer/beginner-webapplicationlamp1/30005 「PHPでデータベースに書き込もう」から
+  - [paiza. DB/SQL入門編 (全2レッスン) ](https://paiza.jp/works/sql/primer)
+  - [paiza. PHP基礎編](https://paiza.jp/works/php/basicnew)
+  - [杏z 学習帳. [Heroku]CakePHP3でつくって公開してみたのでその手順メモ](https://anz-note.tumblr.com/post/147874119361/herokucakephp3%E3%81%A7%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E6%89%8B%E9%A0%86%E3%83%A1%E3%83%A2)
+- DATフェスタ作品の公開作業
+
 # 後期15回目
 ## 話題
 - [Esoteric Software. Spine](http://ja.esotericsoftware.com/)
 - [Cocoon.io WebアプリやWebページをスマホのネイティブアプリにコンパイルするサービス](https://cocoon.io)
 - [Amazon. クラウドで開発するサービス Cloud9](https://aws.amazon.com/jp/cloud9/)
 
-## 予定
+## 内容
 - アルゴリズムを知る PHP基礎編:長テーブルのうなぎの問題 https://paiza.jp/works/php/basicnew/unagi-new/2201
 - サーバーサイドプログラミング PHP編
   - [paiza. PHP入門編](https://paiza.jp/works/php/primerfemale)
     - https://paiza.jp/works/php/primerfemale/beginner-php4-female/2331 配列の復習から
   - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
-    - [MySQLのインストール](https://dev.mysql.com/doc/refman/5.7/en/binary-installation.html)
-    - [phpMyAdminのインストール](https://www.dbonline.jp/phpmyadmin/)
-    - [paizaのMySQLが動かない場合、こっちのレッスンでは動く](https://paiza.jp/works/sql/primer/beginner-sql1-cloud/10023)
-  - [paiza. DB/SQL入門編 (全2レッスン) ](https://paiza.jp/works/sql/primer)
-  - [paiza. PHP基礎編](https://paiza.jp/works/php/basicnew)
-  - [杏z 学習帳. [Heroku]CakePHP3でつくって公開してみたのでその手順メモ](https://anz-note.tumblr.com/post/147874119361/herokucakephp3%E3%81%A7%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E5%85%AC%E9%96%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%9D%E3%81%AE%E6%89%8B%E9%A0%86%E3%83%A1%E3%83%A2)
-- DATフェスタ作品の公開作業
 
 # 後期14回目
 ## 話題
