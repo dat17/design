@@ -22,7 +22,7 @@
 - [タツノコプロ. フルデジタル作画で作品作りを行ったワークフロー](http://www.tatsunoko.co.jp/tvpaint)
 
 ## 動画
-- 今日の動画 
+- 今日の動画 https://www.youtube.com/watch?v=fsFOs2PRgbA
 
 ## 予定
 - サーバーサイドプログラミング PHP編
