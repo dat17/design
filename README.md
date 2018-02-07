@@ -17,6 +17,13 @@
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 後期16回目-最終回
+## 話題
+- [モバイルファクトリー. デザイナー向け採用情報](http://mf-corpcomn.tumblr.com/post/170519279742/20180205#QikrkJP.twitter_tweet_count_no_m)
+- [タツノコプロ. フルデジタル作画で作品作りを行ったワークフロー](http://www.tatsunoko.co.jp/tvpaint)
+
+## 動画
+- 今日の動画 
+
 ## 予定
 - サーバーサイドプログラミング PHP編
   - [paiza. Webアプリ開発入門 PHP+MySQL編 ](https://paiza.jp/works/webapplicationlamp/primer)
