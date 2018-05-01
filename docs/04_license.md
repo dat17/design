@@ -60,29 +60,19 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 8.
 9.
 
-[著作権法 第九条の二](http://law.e-gov.go.jp/cgi-bin/idxselect.cgi?IDX_OPT=1&H_NAME=%92%98%8D%EC%8C%A0%96%40&H_NAME_YOMI=%82%A0&H_NO_GENGO=H&H_NO_YEAR=&H_NO_TYPE=2&H_NO_NO=&H_FILE_NAME=S45HO048&H_RYAKU=1&H_CTG=1&H_YOMI_GUN=1&H_CTG_GUN=1) 第二章 第一節 第十条より。
+[著作権法 第十条](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048&openerCode=1#101) より。
 
 ### 著作人格権
 - a
 - b
 - c
 
-これらは、放棄したり、譲渡することはできない。
+[著作権法 第十八条、第十九条、第二十条](http://elaws.e-gov.go.jp/search/elawsSearch/elaws_search/lsg0500/detail?lawId=345AC0000000048&openerCode=1#150)より。
+
+これらは原則として、放棄したり譲渡することはできない。
 
 ### 著作権
-- 21
-- 22-1
-- 22-2
-- 23
-- 24
-- 25
-- 26-1
-- 26-2
-- 26-3
-- 27
-- 28
-
-これらは、放棄や、譲渡することができる。
+- 第二十一条〜第二十八条は、放棄や、譲渡することができる。
 
 ## 著作権の制限
 以下については、例外的に利用することができる。
@@ -144,7 +134,8 @@ https://www.jpo.go.jp/beginner/beginner_08.html
 - 禁止されていることは？
 - ライセンスの条件(費用、著作者表示など)
 
-## Tyrano Script
+## Unityアセットストアのライセンス
+- http://assetstore.info/lesson/lesson1-2/
 
 ## イラストや
 
